@@ -1,0 +1,839 @@
+##############################
+Log started on 2/22/2013 1:34:29 PM
+
+2/22/2013 1:35:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 1:35:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 1:35:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 1:35:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 1:35:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'AmountCur' of 0x40036D7E (SmallSmithBOD) to '15'
+2/22/2013 1:36:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 1:36:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'AmountCur' of 0x40036CCB (SmallSmithBOD) to '20'
+2/22/2013 1:36:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 1:36:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'AmountCur' of 0x40036E2F (SmallSmithBOD) to '15'
+2/22/2013 1:36:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 1:36:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'AmountCur' of 0x40036D83 (SmallSmithBOD) to '20'
+2/22/2013 1:38:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add scroll of trancendance mining 1'
+2/22/2013 1:42:24 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'speedboost '
+2/22/2013 1:42:34 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 1:42:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2500, 562, 0) in Felucca: "ArcaneEmpowermentScroll"
+2/22/2013 1:42:42 PM: 174.89.178.2: Serials: 0x4000055A; 
+2/22/2013 1:42:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2500, 563, 0) in Felucca: "ArcaneEmpowermentScroll"
+2/22/2013 1:42:47 PM: 174.89.178.2: Serials: 0x4000055C; 
+2/22/2013 1:44:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 1:44:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000055C (ArcaneEmpowermentScroll)
+2/22/2013 1:45:20 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'Name' of 0x22AD "Bob" ('stafflag') to 'Ronin'
+2/22/2013 1:52:21 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'admin '
+2/22/2013 1:52:39 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22F3 "KillMe" ('Tripneustes')
+2/22/2013 1:54:40 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 1:58:30 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'admin '
+2/22/2013 1:58:38 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') shutting down server (Restart: True) (Save: True)
+2/22/2013 1:58:39 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'save '
+##############################
+Log started on 2/22/2013 1:59:27 PM
+
+2/22/2013 2:00:19 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'speedboost '
+2/22/2013 2:00:22 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 2:00:39 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 2:00:43 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'admin '
+2/22/2013 2:00:54 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 2:03:02 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 2:08:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 2:08:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add recipe scroll'
+2/22/2013 2:08:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2500, 561, 0) in Felucca: "recipe" "scroll"
+2/22/2013 2:13:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 2:13:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 2:16:09 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add SmithHammer'
+2/22/2013 2:16:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2502, 561, 0) in Felucca: "SmithHammer"
+2/22/2013 2:16:12 PM: 174.89.178.2: Serials: 0x40000B23; 
+2/22/2013 2:17:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add ClockworkAssembly'
+2/22/2013 2:17:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2501, 562, 0) in Felucca: "ClockworkAssembly"
+2/22/2013 2:17:16 PM: 174.89.178.2: Serials: 0x40000B62; 
+2/22/2013 2:20:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Obelisk'
+2/22/2013 2:20:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2505, 562, 0) in Felucca: "Obelisk"
+2/22/2013 2:20:37 PM: 174.89.178.2: Serials: 0x40000DA3; 
+2/22/2013 2:21:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add PowderOfTranslocation'
+2/22/2013 2:21:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2502, 562, 0) in Felucca: "PowderOfTranslocation"
+2/22/2013 2:21:16 PM: 174.89.178.2: Serials: 0x40000DBA; 
+2/22/2013 2:21:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add PowerCrystal'
+2/22/2013 2:21:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2502, 563, 0) in Felucca: "PowerCrystal"
+2/22/2013 2:21:32 PM: 174.89.178.2: Serials: 0x40000DE2; 
+2/22/2013 2:22:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add SpecialBeardDye'
+2/22/2013 2:22:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2501, 562, 0) in Felucca: "SpecialBeardDye"
+2/22/2013 2:22:19 PM: 174.89.178.2: Serials: 0x40000E21; 
+2/22/2013 2:22:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add StoneMiningBook'
+2/22/2013 2:22:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2502, 562, 0) in Felucca: "StoneMiningBook"
+2/22/2013 2:22:50 PM: 174.89.178.2: Serials: 0x40000E4A; 
+2/22/2013 2:24:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 2:24:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add IronIngot'
+2/22/2013 2:24:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2501, 562, 0) in Felucca: "IronIngot"
+2/22/2013 2:24:36 PM: 174.89.178.2: Serials: 0x40000F84; 
+2/22/2013 2:24:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 2:24:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Amount' of 0x40000F84 (IronIngot) to '50'
+2/22/2013 2:24:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add BronzeIngot'
+2/22/2013 2:25:00 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2499, 562, 0) in Felucca: "BronzeIngot"
+2/22/2013 2:25:00 PM: 174.89.178.2: Serials: 0x40000F94; 
+2/22/2013 2:25:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 2:25:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Amount' of 0x40000F94 (BronzeIngot) to '50'
+2/22/2013 2:26:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Gears'
+2/22/2013 2:26:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2501, 562, 0) in Felucca: "Gears"
+2/22/2013 2:26:03 PM: 174.89.178.2: Serials: 0x40001027; 
+2/22/2013 2:26:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 2:26:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Amount' of 0x40001027 (Gears) to '5'
+2/22/2013 2:27:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+2/22/2013 2:29:05 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'Criminal' of 0x22AD "Ronin" ('stafflag') to 'True'
+2/22/2013 2:48:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') shutting down server (Restart: True) (Save: True)
+2/22/2013 2:48:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'save '
+##############################
+Log started on 2/22/2013 2:49:52 PM
+
+2/22/2013 2:50:27 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'speedboost '
+2/22/2013 2:50:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 2:52:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 2:52:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 2:52:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22F3 "KillMe" ('Tripneustes')
+2/22/2013 3:00:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 3:00:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22F3 "KillMe" ('Tripneustes')
+2/22/2013 3:04:43 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'add guard'
+2/22/2013 3:04:53 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') building at (1427, 1699, 0) in Felucca: "ArcherGuard"
+2/22/2013 3:04:53 PM: 127.0.0.1: Serials: 0x580; 
+2/22/2013 3:05:30 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') building at (1428, 1696, 0) in Felucca: "WarriorGuard"
+2/22/2013 3:05:30 PM: 127.0.0.1: Serials: 0x583; 
+2/22/2013 3:05:31 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 3:05:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 3:05:57 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 3:06:02 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 3:08:20 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 3:08:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 3:08:55 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') building at (1351, 1753, 20) in Felucca: "MansionGuard"
+2/22/2013 3:08:55 PM: 127.0.0.1: Serials: 0x591; 
+2/22/2013 3:09:50 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'M Remove'
+2/22/2013 3:12:03 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'M Remove'
+2/22/2013 3:12:05 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') deleting 0x591 "Keona" (no account)
+2/22/2013 3:13:14 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 3:13:32 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'Criminal' of 0x22AD "Ronin" ('stafflag') to 'True'
+2/22/2013 3:20:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 3:21:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Criminal' of 0x22AD "Ronin" ('stafflag') to 'True'
+2/22/2013 3:23:37 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 3:24:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Paralyzed' of 0x22AD "Ronin" ('stafflag') to 'True'
+2/22/2013 3:25:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Paralyzed' of 0x22AD "Ronin" ('stafflag') to 'False'
+2/22/2013 3:25:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 3:45:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add craftsman'ssachel'
+2/22/2013 3:46:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add craftsman'ssatchel'
+2/22/2013 3:47:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add darkglow'
+2/22/2013 3:47:31 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1420, 1704, 9) in Felucca: "DarkglowPotion"
+2/22/2013 3:47:31 PM: 174.89.178.2: Serials: 0x40001D81; 
+2/22/2013 3:48:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add hoveringwisp'
+2/22/2013 3:48:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1421, 1704, 9) in Felucca: "hoveringwisp"
+2/22/2013 3:48:26 PM: 174.89.178.2: Serials: 0x40001DEE; 
+2/22/2013 3:48:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 3:49:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 3:49:09 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001DEE (HoveringWisp)
+2/22/2013 3:49:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add recipe'
+2/22/2013 3:50:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1420, 1704, 9) in Felucca: "recipe"
+2/22/2013 3:50:54 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add recipe the night slayer'
+2/22/2013 3:50:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1421, 1704, 9) in Felucca: "recipe" "the" "night" "slayer"
+2/22/2013 3:51:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 3:51:31 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001D82 (Bottle)
+2/22/2013 3:51:58 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add craftsman's'
+2/22/2013 3:52:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1422, 1702, 5) in Felucca: "GolemCrafter"
+2/22/2013 3:52:23 PM: 174.89.178.2: Serials: 0x676; 
+2/22/2013 3:53:00 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 3:53:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x676 "Calder" (no account)
+2/22/2013 3:54:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add a bag of treasure'
+2/22/2013 3:57:52 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'admin '
+2/22/2013 3:58:03 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') shutting down server (Restart: True) (Save: True)
+2/22/2013 3:58:04 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'save '
+##############################
+Log started on 2/22/2013 4:26:36 PM
+
+##############################
+Log started on 2/22/2013 4:47:13 PM
+
+2/22/2013 5:01:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 5:01:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add mughteminer'
+2/22/2013 5:02:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add cillitha'
+2/22/2013 5:03:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1419, 1704, 9) in Felucca: "SmithBag"
+2/22/2013 5:03:19 PM: 174.89.178.2: Serials: 0x40001038; 
+2/22/2013 5:03:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1423, 1704, 9) in Felucca: "SmallBagBall"
+2/22/2013 5:03:52 PM: 174.89.178.2: Serials: 0x40001337; 
+2/22/2013 5:04:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1423, 1703, 7) in Felucca: "BagOfSending"
+2/22/2013 5:04:43 PM: 174.89.178.2: Serials: 0x4000136D; 
+2/22/2013 5:06:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 5:06:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') shutting down server (Restart: True) (Save: True)
+2/22/2013 5:06:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'save '
+##############################
+Log started on 2/22/2013 5:08:40 PM
+
+2/22/2013 5:23:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 5:23:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 5:23:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') shutting down server (Restart: True) (Save: True)
+2/22/2013 5:23:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'save '
+##############################
+Log started on 2/22/2013 5:47:09 PM
+
+2/22/2013 5:55:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 5:57:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 5:57:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 5:57:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 5:58:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Harrower'
+2/22/2013 5:58:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1215, 1722, 0) in Felucca: "Harrower"
+2/22/2013 5:58:17 PM: 174.89.178.2: Serials: 0x564; 
+2/22/2013 5:58:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 5:58:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x564 "the harrower" (no account)
+2/22/2013 5:58:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 5:58:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 5:58:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 5:58:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x568 "tentacles of the harrower" (no account)
+2/22/2013 5:59:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 5:59:11 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x569 "tentacles of the harrower" (no account)
+2/22/2013 5:59:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 5:59:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') shutting down server (Restart: True) (Save: True)
+2/22/2013 5:59:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'save '
+##############################
+Log started on 2/22/2013 6:03:41 PM
+
+2/22/2013 6:05:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 6:06:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 6:06:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:06:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001490 (Corpse)
+2/22/2013 6:06:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:06:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000148D (VampiricEmbraceScroll)
+2/22/2013 6:06:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:06:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001430 (Corpse)
+2/22/2013 6:06:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:06:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x567 "tentacles of the harrower" (no account)
+2/22/2013 6:06:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:06:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000198 (Corpse)
+2/22/2013 6:06:55 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:06:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x566 "tentacles of the harrower" (no account)
+2/22/2013 6:07:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:07:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400001CE (Corpse)
+2/22/2013 6:07:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:07:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x565 "tentacles of the harrower" (no account)
+2/22/2013 6:07:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:07:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000210 (Corpse)
+2/22/2013 6:07:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:07:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x56D "tentacles of the harrower" (no account)
+2/22/2013 6:07:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:07:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000237 (Corpse)
+2/22/2013 6:07:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:07:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x56C "tentacles of the harrower" (no account)
+2/22/2013 6:08:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:08:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:08:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000241 (Corpse)
+2/22/2013 6:08:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:08:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x56A "tentacles of the harrower" (no account)
+2/22/2013 6:08:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:08:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000025A (Corpse)
+2/22/2013 6:08:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:08:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x56B "tentacles of the harrower" (no account)
+2/22/2013 6:08:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:08:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:08:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000268 (Corpse)
+2/22/2013 6:08:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 6:08:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x564 "the true harrower" (no account)
+2/22/2013 6:09:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:09:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002DF (PlateChest)
+2/22/2013 6:09:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:09:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002E0 (PlateLegs)
+2/22/2013 6:09:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:09:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002E1 (ChainLegs)
+2/22/2013 6:09:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:09:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002DC (HeavyCrossbow)
+2/22/2013 6:09:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:09:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002D1 (PlateLegs)
+2/22/2013 6:10:00 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:10:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002E7 (Corpse)
+2/22/2013 6:13:58 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:14:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000A7B (Gold)
+2/22/2013 6:14:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'M Remove'
+2/22/2013 6:14:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000A2E (Gold)
+2/22/2013 6:14:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002F8 (Gold)
+2/22/2013 6:14:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000AFA (Gold)
+2/22/2013 6:14:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000F84 (Gold)
+2/22/2013 6:14:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000FFA (Gold)
+2/22/2013 6:14:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000E94 (Gold)
+2/22/2013 6:14:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000079F (Gold)
+2/22/2013 6:14:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000F71 (Gold)
+2/22/2013 6:14:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000C3C (Gold)
+2/22/2013 6:14:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000422 (Gold)
+2/22/2013 6:14:31 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000FF4 (Gold)
+2/22/2013 6:14:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:14:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1202, 1703, 0) to (1214, 1716, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:14:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:14:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1203, 1722, 0) to (1209, 1722, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:15:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:15:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1204, 1723, 0) to (1210, 1729, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:15:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:15:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1201, 1718, 0) to (1208, 1725, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:15:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:15:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1214, 1723, 0) to (1222, 1729, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:15:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:15:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1202, 1726, 0) to (1220, 1733, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:15:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:15:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1215, 1707, 0) to (1222, 1722, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:15:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:15:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1207, 1717, 0) to (1213, 1725, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:15:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:15:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1214, 1717, 0) to (1214, 1722, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:16:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:16:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1201, 1711, 0) to (1201, 1715, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:16:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:16:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1200, 1713, 0) to (1200, 1725, 2) in Felucca (Items, Mobiles)
+2/22/2013 6:16:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:16:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1215, 1702, 0) to (1226, 1709, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:16:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:16:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1223, 1723, 0) to (1230, 1724, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:16:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:16:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1222, 1713, 0) to (1225, 1732, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:16:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:16:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1221, 1730, 0) to (1221, 1732, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:16:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'M Tele'
+2/22/2013 6:16:54 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'M Tele'
+2/22/2013 6:16:54 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:16:58 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1224, 1711, 0) to (1230, 1722, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:17:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:17:09 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1226, 1725, 0) to (1226, 1729, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:17:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 6:17:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1227, 1725, 0) to (1229, 1728, 0) in Felucca (Items, Mobiles)
+2/22/2013 6:17:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'M Remove'
+2/22/2013 6:17:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000129D (Gold)
+2/22/2013 6:17:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400009A3 (Gold)
+2/22/2013 6:17:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000064D (Gold)
+2/22/2013 6:17:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000036E (Gold)
+2/22/2013 6:17:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400012F0 (Gold)
+2/22/2013 6:17:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001266 (Gold)
+2/22/2013 6:17:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001372 (Gold)
+2/22/2013 6:17:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000AF5 (Gold)
+2/22/2013 6:17:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000CAA (Gold)
+2/22/2013 6:17:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000099C (Gold)
+2/22/2013 6:17:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400012A5 (Gold)
+2/22/2013 6:17:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000FEC (Gold)
+2/22/2013 6:17:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 6:18:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'dupe '
+2/22/2013 6:18:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') duping 0x4002C308 (PremiumSpawner) (inBag=False; amount=1)
+2/22/2013 6:18:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') duped 0x4002C308 (PremiumSpawner) creating 0x400016A9 (PremiumSpawner)
+2/22/2013 6:19:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'move '
+2/22/2013 6:19:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') moving 0x400016A9 (PremiumSpawner) to (1222, 1723, 0)
+2/22/2013 6:20:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 6:20:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') shutting down server (Restart: True) (Save: False)
+##############################
+Log started on 2/22/2013 6:27:11 PM
+
+2/22/2013 6:27:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 6:28:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 6:29:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 6:29:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:29:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 6:29:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:29:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 6:30:19 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'speedboost '
+2/22/2013 6:30:22 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'staffrunebook '
+2/22/2013 6:30:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Hits' of 0x22AD "Ronin" ('stafflag') to '100'
+2/22/2013 6:32:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 6:32:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:32:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 6:32:41 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'speedboost '
+2/22/2013 6:32:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:34:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 6:34:04 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'admin '
+2/22/2013 6:34:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:34:10 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:34:32 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:34:48 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:35:31 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 6:35:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:35:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 6:35:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Hits' of 0x22AD "Ronin" ('stafflag') to '100'
+2/22/2013 6:36:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/22/2013 6:36:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 6:36:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Set Hidden True'
+2/22/2013 6:36:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Hidden' of 0x22AD "Ronin" ('stafflag') to 'True'
+2/22/2013 6:37:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:37:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400016A9 (PremiumSpawner)
+2/22/2013 6:40:54 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 6:41:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add TrainingDummyEastAddon'
+2/22/2013 6:41:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1370, 1747, 3) in Felucca: "TrainingDummyEastAddon"
+2/22/2013 6:41:30 PM: 174.89.178.2: Serials: 0x400013DB; 
+2/22/2013 6:41:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:41:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400013DC (TrainingDummy)
+2/22/2013 6:42:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add ElvenBedEastAddon'
+2/22/2013 6:42:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1372, 1746, 3) in Felucca: "ElvenBedEastAddon"
+2/22/2013 6:42:08 PM: 174.89.178.2: Serials: 0x400013F4; 
+2/22/2013 6:42:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:42:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400013F6 (AddonComponent)
+2/22/2013 6:42:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add ChampionSkullPlatform'
+2/22/2013 6:42:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1375, 1749, 0) in Felucca: "ChampionSkullPlatform"
+2/22/2013 6:42:24 PM: 174.89.178.2: Serials: 0x40001416; 
+2/22/2013 6:43:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:43:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000143E (LocalizedAddonComponent)
+2/22/2013 6:43:06 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') shutting down server (Restart: True) (Save: True)
+2/22/2013 6:43:06 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'save '
+##############################
+Log started on 2/22/2013 6:43:55 PM
+
+2/22/2013 6:44:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 6:44:37 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'speedboost '
+2/22/2013 6:46:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 6:46:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 6:47:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add StoneChair'
+2/22/2013 6:47:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1373, 1746, 3) in Felucca: "StoneChair"
+2/22/2013 6:47:16 PM: 174.89.178.2: Serials: 0x400002BB; 
+2/22/2013 6:47:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add PottedTree'
+2/22/2013 6:47:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1374, 1746, 1) in Felucca: "PottedTree"
+2/22/2013 6:47:47 PM: 174.89.178.2: Serials: 0x400002DB; 
+2/22/2013 6:47:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add PottedPlant1'
+2/22/2013 6:47:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1372, 1747, 3) in Felucca: "PottedPlant1"
+2/22/2013 6:47:52 PM: 174.89.178.2: Serials: 0x400002DC; 
+2/22/2013 6:47:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add PottedTree1'
+2/22/2013 6:47:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1373, 1745, 3) in Felucca: "PottedTree1"
+2/22/2013 6:47:59 PM: 174.89.178.2: Serials: 0x400002DD; 
+2/22/2013 6:48:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add WarriorGuard'
+2/22/2013 6:48:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1373, 1748, 3) in Felucca: "WarriorGuard"
+2/22/2013 6:48:22 PM: 174.89.178.2: Serials: 0x547; 
+2/22/2013 6:48:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:48:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002DC (PottedPlant1)
+2/22/2013 6:48:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:48:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002DB (PottedTree)
+2/22/2013 6:48:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:48:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002DD (PottedTree1)
+2/22/2013 6:48:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:48:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400002BB (StoneChair)
+2/22/2013 6:48:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:48:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000DB4 (Corpse)
+2/22/2013 6:48:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:48:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000E17 (Corpse)
+2/22/2013 6:49:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 6:51:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add BlackDyeTub'
+2/22/2013 6:51:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1374, 1747, 1) in Felucca: "BlackDyeTub"
+2/22/2013 6:51:24 PM: 174.89.178.2: Serials: 0x400004C1; 
+2/22/2013 6:51:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 6:52:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 6:52:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Hue' of 0x4002726C (AdminRobe) to '1'
+2/22/2013 6:53:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 6:53:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400004C1 (BlackDyeTub)
+2/22/2013 6:53:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') shutting down server (Restart: True) (Save: True)
+2/22/2013 6:53:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'save '
+##############################
+Log started on 2/22/2013 7:00:11 PM
+
+2/22/2013 7:00:39 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'speedboost '
+2/22/2013 7:01:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 7:12:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 7:12:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:12:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x493B "a chicken" (no account)
+2/22/2013 7:13:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 7:14:11 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add AbysmalHorror'
+2/22/2013 7:14:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1204, 1791, 0) in Felucca: "AbysmalHorror"
+2/22/2013 7:14:12 PM: 174.89.178.2: Serials: 0x565; 
+2/22/2013 7:14:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:14:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x565 "an abyssmal horror" (no account)
+2/22/2013 7:15:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:15:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001042 (Corpse)
+2/22/2013 7:15:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:15:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x566 "a lich lord" (no account)
+2/22/2013 7:16:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add AncientWyrm'
+2/22/2013 7:16:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1217, 1719, 0) in Felucca: "AncientWyrm"
+2/22/2013 7:16:03 PM: 174.89.178.2: Serials: 0x56A; 
+2/22/2013 7:16:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:16:09 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x56A "an ancient wyrm" (no account)
+2/22/2013 7:16:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:16:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001238 (Corpse)
+2/22/2013 7:17:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:17:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x56B "a skeletal dragon" (no account)
+2/22/2013 7:17:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Balron'
+2/22/2013 7:17:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1217, 1720, 0) in Felucca: "Balron"
+2/22/2013 7:17:17 PM: 174.89.178.2: Serials: 0x56E; 
+2/22/2013 7:17:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:17:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x56E "the Collector of Souls" (no account)
+2/22/2013 7:17:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:17:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400012C9 (Corpse)
+2/22/2013 7:17:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:17:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x577 "a lich lord" (no account)
+2/22/2013 7:17:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:17:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x551 "a horde minion" (no account)
+2/22/2013 7:18:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add ArcticOgreLord'
+2/22/2013 7:18:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1217, 1720, 0) in Felucca: "ArcticOgreLord"
+2/22/2013 7:18:06 PM: 174.89.178.2: Serials: 0x57F; 
+2/22/2013 7:18:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:18:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x57F "an arctic ogre lord" (no account)
+2/22/2013 7:18:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:18:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400013C7 (Corpse)
+2/22/2013 7:18:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add OphidianKnight'
+2/22/2013 7:18:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1216, 1709, 0) in Felucca: "OphidianKnight"
+2/22/2013 7:18:44 PM: 174.89.178.2: Serials: 0x584; 
+2/22/2013 7:19:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:19:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x584 "an ophidian knight-errant" (no account)
+2/22/2013 7:19:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:19:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000142E (Corpse)
+2/22/2013 7:19:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:19:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000143A (Corpse)
+2/22/2013 7:19:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:19:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x58B "a flesh golem" (no account)
+2/22/2013 7:19:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add BoneDemon'
+2/22/2013 7:19:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1211, 1707, 0) in Felucca: "BoneDemon"
+2/22/2013 7:19:48 PM: 174.89.178.2: Serials: 0x58D; 
+2/22/2013 7:19:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:19:55 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x58D "a bone demon" (no account)
+2/22/2013 7:20:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:20:09 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400014C8 (Corpse)
+2/22/2013 7:20:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add WandererOfTheVoid'
+2/22/2013 7:20:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1207, 1707, 0) in Felucca: "WandererOfTheVoid"
+2/22/2013 7:20:27 PM: 174.89.178.2: Serials: 0x58F; 
+2/22/2013 7:21:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:21:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x58F "a wanderer of the void" (no account)
+2/22/2013 7:21:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:21:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x58E "a lich lord" (no account)
+2/22/2013 7:21:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:21:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001592 (Corpse)
+2/22/2013 7:22:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add GolemController'
+2/22/2013 7:22:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1209, 1705, 0) in Felucca: "GolemController"
+2/22/2013 7:22:30 PM: 174.89.178.2: Serials: 0x59D; 
+2/22/2013 7:22:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:22:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x591 "a lich lord" (no account)
+2/22/2013 7:23:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:23:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000169C (Corpse)
+2/22/2013 7:24:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:24:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x5A4 "a skeletal knight" (no account)
+2/22/2013 7:27:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add BloodElemental'
+2/22/2013 7:27:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1217, 1720, 0) in Felucca: "BloodElemental"
+2/22/2013 7:27:52 PM: 174.89.178.2: Serials: 0x5C4; 
+2/22/2013 7:27:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:27:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x5C4 "a blood elemental" (no account)
+2/22/2013 7:28:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:28:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400017EC (Corpse)
+2/22/2013 7:28:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add AgapiteElemental'
+2/22/2013 7:28:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1216, 1717, 0) in Felucca: "AgapiteElemental"
+2/22/2013 7:28:23 PM: 174.89.178.2: Serials: 0x5CC; 
+2/22/2013 7:28:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:28:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000197F (Corpse)
+2/22/2013 7:28:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:28:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x5CC "an agapite elemental" (no account)
+2/22/2013 7:29:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:29:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001990 (Corpse)
+2/22/2013 7:29:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add DeepSeaSerpent'
+2/22/2013 7:29:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1216, 1716, 0) in Felucca: "DeepSeaSerpent"
+2/22/2013 7:29:19 PM: 174.89.178.2: Serials: 0x5DE; 
+2/22/2013 7:29:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Set Hidden True'
+2/22/2013 7:29:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:29:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x5DE "a deep sea serpent" (no account)
+2/22/2013 7:29:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:29:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001A0A (Corpse)
+2/22/2013 7:29:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add BlackSolenInfiltratorQueen'
+2/22/2013 7:29:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1213, 1716, 0) in Felucca: "BlackSolenInfiltratorQueen"
+2/22/2013 7:29:59 PM: 174.89.178.2: Serials: 0x5E1; 
+2/22/2013 7:30:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:30:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001A66 (Corpse)
+2/22/2013 7:30:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:30:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x5E1 "a black solen infiltrator" (no account)
+2/22/2013 7:30:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:30:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001AA1 (Corpse)
+2/22/2013 7:31:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add FireBeetle'
+2/22/2013 7:31:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1224, 1716, 0) in Felucca: "FireBeetle"
+2/22/2013 7:31:27 PM: 174.89.178.2: Serials: 0x5EC; 
+2/22/2013 7:31:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:31:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x5E8 "a mound of maggots" (no account)
+2/22/2013 7:32:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Set Frozen True'
+2/22/2013 7:32:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Frozen' of 0x5EC "a fire beetle" (no account) to 'True'
+2/22/2013 7:32:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Set Frozen False'
+2/22/2013 7:32:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Frozen' of 0x5EC "a fire beetle" (no account) to 'False'
+2/22/2013 7:32:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 7:33:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Controlled' of 0x5EC "a fire beetle" (no account) to 'True'
+2/22/2013 7:35:00 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/22/2013 7:35:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add GoldOre'
+2/22/2013 7:35:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1216, 1720, 0) in Felucca: "GoldOre"
+2/22/2013 7:35:19 PM: 174.89.178.2: Serials: 0x40001BF7; 
+2/22/2013 7:35:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'move '
+2/22/2013 7:35:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') moving 0x5EC "a fire beetle" (no account) to (1215, 1719, 0)
+2/22/2013 7:36:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:36:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x5EC "a fire beetle" (no account)
+2/22/2013 7:36:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:36:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001C11 (Corpse)
+2/22/2013 7:36:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Board'
+2/22/2013 7:37:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add PlagueBeast'
+2/22/2013 7:37:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1216, 1719, 0) in Felucca: "PlagueBeast"
+2/22/2013 7:37:24 PM: 174.89.178.2: Serials: 0x615; 
+2/22/2013 7:37:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:37:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x615 "a plague beast" (no account)
+2/22/2013 7:37:55 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:37:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001C63 (Corpse)
+2/22/2013 7:38:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Quagmire'
+2/22/2013 7:38:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1220, 1719, 0) in Felucca: "Quagmire"
+2/22/2013 7:38:17 PM: 174.89.178.2: Serials: 0x61A; 
+2/22/2013 7:38:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:38:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x618 "a flesh golem" (no account)
+2/22/2013 7:38:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:38:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001CCF (Corpse)
+2/22/2013 7:39:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add DemonKnight'
+2/22/2013 7:39:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1218, 1719, 0) in Felucca: "DemonKnight"
+2/22/2013 7:39:30 PM: 174.89.178.2: Serials: 0x620; 
+2/22/2013 7:39:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:39:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x620 "Therion" (no account)
+2/22/2013 7:40:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:40:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001D34 (Corpse)
+2/22/2013 7:40:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add DemonKnight'
+2/22/2013 7:40:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1215, 1719, 0) in Felucca: "DemonKnight"
+2/22/2013 7:40:51 PM: 174.89.178.2: Serials: 0x62D; 
+2/22/2013 7:40:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:40:58 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x62D "Kra'an" (no account)
+2/22/2013 7:41:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Devourer'
+2/22/2013 7:41:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1214, 1719, 0) in Felucca: "Devourer"
+2/22/2013 7:41:04 PM: 174.89.178.2: Serials: 0x630; 
+2/22/2013 7:41:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:41:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x630 "a devourer of souls" (no account)
+2/22/2013 7:41:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:41:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001CF2 (Corpse)
+2/22/2013 7:41:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:41:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001DE3 (Corpse)
+2/22/2013 7:41:31 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:41:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x631 "a lich" (no account)
+2/22/2013 7:41:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add ShadowKnight'
+2/22/2013 7:41:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1215, 1720, 0) in Felucca: "ShadowKnight"
+2/22/2013 7:41:45 PM: 174.89.178.2: Serials: 0x634; 
+2/22/2013 7:41:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:41:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x634 "Marcus Fel" (no account)
+2/22/2013 7:42:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:42:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001E18 (Corpse)
+2/22/2013 7:42:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Treefellow'
+2/22/2013 7:42:11 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1216, 1718, 0) in Felucca: "Treefellow"
+2/22/2013 7:42:11 PM: 174.89.178.2: Serials: 0x636; 
+2/22/2013 7:42:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:42:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x636 "a treefellow" (no account)
+2/22/2013 7:42:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:42:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001E29 (Corpse)
+2/22/2013 7:42:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Titan'
+2/22/2013 7:42:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1219, 1717, 0) in Felucca: "Titan"
+2/22/2013 7:42:36 PM: 174.89.178.2: Serials: 0x63D; 
+2/22/2013 7:42:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:42:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x63D "a titan" (no account)
+2/22/2013 7:43:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:43:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001E78 (Corpse)
+2/22/2013 7:43:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:43:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001E72 (Corpse)
+2/22/2013 7:43:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:43:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x63F "a flesh golem" (no account)
+2/22/2013 7:44:00 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add AncientWyrm'
+2/22/2013 7:44:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1215, 1721, 0) in Felucca: "AncientWyrm"
+2/22/2013 7:44:01 PM: 174.89.178.2: Serials: 0x643; 
+2/22/2013 7:44:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:44:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x643 "an ancient wyrm" (no account)
+2/22/2013 7:44:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:44:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001EB0 (Corpse)
+2/22/2013 7:44:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add SerpentineDragon'
+2/22/2013 7:44:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1221, 1720, 0) in Felucca: "SerpentineDragon"
+2/22/2013 7:44:30 PM: 174.89.178.2: Serials: 0x646; 
+2/22/2013 7:45:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:45:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001F08 (Corpse)
+2/22/2013 7:45:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:45:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x645 "a skeletal dragon" (no account)
+2/22/2013 7:45:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:45:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x648 "a flesh golem" (no account)
+2/22/2013 7:45:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add ShadowWyrm'
+2/22/2013 7:45:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1222, 1721, 0) in Felucca: "ShadowWyrm"
+2/22/2013 7:45:28 PM: 174.89.178.2: Serials: 0x650; 
+2/22/2013 7:45:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:45:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x650 "a shadow wyrm" (no account)
+2/22/2013 7:45:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:45:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001F62 (Corpse)
+2/22/2013 7:45:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add AncientWyrm'
+2/22/2013 7:45:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1219, 1722, 0) in Felucca: "AncientWyrm"
+2/22/2013 7:45:53 PM: 174.89.178.2: Serials: 0x654; 
+2/22/2013 7:46:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:46:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x654 "an ancient wyrm" (no account)
+2/22/2013 7:46:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:46:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001FEA (Corpse)
+2/22/2013 7:46:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:46:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001FAF (Corpse)
+2/22/2013 7:46:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Neira'
+2/22/2013 7:46:54 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1218, 1722, 0) in Felucca: "Neira"
+2/22/2013 7:46:54 PM: 174.89.178.2: Serials: 0x664; 
+2/22/2013 7:47:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:47:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x664 "Neira" (no account)
+2/22/2013 7:47:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:47:52 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1218, 1711, 0) to (1225, 1732, 0) in Felucca (Items, Mobiles)
+2/22/2013 7:47:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:48:00 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1208, 1714, 0) to (1217, 1731, 0) in Felucca (Items, Mobiles)
+2/22/2013 7:48:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:48:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1205, 1715, 0) to (1207, 1724, 0) in Felucca (Items, Mobiles)
+2/22/2013 7:48:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:48:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1208, 1709, 0) to (1224, 1714, 0) in Felucca (Items, Mobiles)
+2/22/2013 7:48:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:48:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1217, 1707, 0) to (1231, 1724, 0) in Felucca (Items, Mobiles)
+2/22/2013 7:48:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:48:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1224, 1724, 0) to (1230, 1728, 0) in Felucca (Items, Mobiles)
+2/22/2013 7:48:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Rikktor'
+2/22/2013 7:48:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1220, 1721, 0) in Felucca: "Rikktor"
+2/22/2013 7:48:33 PM: 174.89.178.2: Serials: 0x670; 
+2/22/2013 7:48:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 7:48:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x670 "Rikktor" (no account)
+2/22/2013 7:49:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:49:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1210, 1702, 0) to (1225, 1728, 0) in Felucca (Items, Mobiles)
+2/22/2013 7:49:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:49:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1204, 1703, 0) to (1209, 1733, 0) in Felucca (Items, Mobiles)
+2/22/2013 7:49:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'wipe '
+2/22/2013 7:49:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') wiping from (1209, 1711, 0) to (1237, 1737, 20) in Felucca (Items, Mobiles)
+2/22/2013 7:49:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'move '
+2/22/2013 7:49:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') moving 0x40002501 (Gold) to (1226, 1710, 0)
+2/22/2013 7:49:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'M Remove'
+2/22/2013 7:49:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002501 (Gold)
+2/22/2013 7:49:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:49:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40000DBA (PowderOfTranslocation)
+2/22/2013 7:49:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:50:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001C0D (GoldIngot)
+2/22/2013 7:50:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add LargeEmptyPot'
+2/22/2013 7:50:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1221, 1719, 0) in Felucca: "LargeEmptyPot"
+2/22/2013 7:50:38 PM: 174.89.178.2: Serials: 0x4000255B; 
+2/22/2013 7:51:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:51:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000255B (LargeEmptyPot)
+2/22/2013 7:51:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add SmallEmptyPot'
+2/22/2013 7:51:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1204, 1688, 0) in Felucca: "SmallEmptyPot"
+2/22/2013 7:51:21 PM: 174.89.178.2: Serials: 0x400025CA; 
+2/22/2013 7:51:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:51:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400025CA (SmallEmptyPot)
+2/22/2013 7:52:58 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add plantbowl'
+2/22/2013 7:53:00 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1203, 1688, 0) in Felucca: "plantbowl"
+2/22/2013 7:53:00 PM: 174.89.178.2: Serials: 0x40002613; 
+2/22/2013 7:53:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add pitcherofwater'
+2/22/2013 7:54:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1217, 1722, 0) in Felucca: "WaterTroughSouthAddon"
+2/22/2013 7:54:17 PM: 174.89.178.2: Serials: 0x40002682; 
+2/22/2013 7:54:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add pitcher'
+2/22/2013 7:54:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1219, 1720, 0) in Felucca: "pitcher"
+2/22/2013 7:54:32 PM: 174.89.178.2: Serials: 0x40002692; 
+2/22/2013 7:55:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 7:55:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 7:55:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'PlantHue' of 0x40002614 (PlantItem) to 'Magenta'
+2/22/2013 7:55:58 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'PlantStatus' of 0x40002614 (PlantItem) to 'Stage8'
+2/22/2013 7:57:42 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'PlantStatus' of 0x40002614 (PlantItem) to 'Stage7'
+2/22/2013 7:58:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'PlantType' of 0x40002614 (PlantItem) to 'ElephantEarPlant'
+2/22/2013 7:58:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'ShowType' of 0x40002614 (PlantItem) to 'True'
+2/22/2013 7:58:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:58:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002614 (PlantItem)
+2/22/2013 7:58:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:58:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40001E50 (Seed)
+2/22/2013 7:58:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:58:54 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002684 (AddonComponent)
+2/22/2013 7:58:55 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 7:58:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002692 (Pitcher)
+2/22/2013 8:00:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add oni'
+2/22/2013 8:00:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1220, 1720, 0) in Felucca: "oni"
+2/22/2013 8:00:10 PM: 174.89.178.2: Serials: 0x6A5; 
+2/22/2013 8:00:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 8:00:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x6A5 "an oni" (no account)
+2/22/2013 8:00:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:00:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000279B (Corpse)
+2/22/2013 8:01:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add treasurechest'
+2/22/2013 8:01:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1220, 1722, 0) in Felucca: "TreasureChestLevel4"
+2/22/2013 8:01:44 PM: 174.89.178.2: Serials: 0x40002859; 
+2/22/2013 8:02:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:02:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002859 (TreasureChestLevel4)
+2/22/2013 8:02:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add treasurechest'
+2/22/2013 8:02:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1220, 1722, 0) in Felucca: "HaochisTreasureChest"
+2/22/2013 8:02:26 PM: 174.89.178.2: Serials: 0x4000287D; 
+2/22/2013 8:02:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:02:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000287D (HaochisTreasureChest)
+2/22/2013 8:02:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1220, 1723, 0) in Felucca: "MetalGoldenTreasureChest"
+2/22/2013 8:02:46 PM: 174.89.178.2: Serials: 0x400028DA; 
+2/22/2013 8:02:55 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:02:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400028DA (MetalGoldenTreasureChest)
+2/22/2013 8:03:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1220, 1723, 0) in Felucca: "TreasureChestLevel4"
+2/22/2013 8:03:06 PM: 174.89.178.2: Serials: 0x400028E8; 
+2/22/2013 8:03:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:03:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400028E8 (TreasureChestLevel4)
+2/22/2013 8:05:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add paragontreasurechest'
+2/22/2013 8:07:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add engravingtool'
+2/22/2013 8:07:17 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1220, 1722, 0) in Felucca: "WeaponEngravingTool"
+2/22/2013 8:07:17 PM: 174.89.178.2: Serials: 0x4000297D; 
+2/22/2013 8:07:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add vikingsword'
+2/22/2013 8:07:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1219, 1724, 0) in Felucca: "vikingsword"
+2/22/2013 8:07:40 PM: 174.89.178.2: Serials: 0x4000298B; 
+2/22/2013 8:08:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:08:23 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000298B (VikingSword)
+2/22/2013 8:08:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:08:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000297D (WeaponEngravingTool)
+2/22/2013 8:10:11 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add chaosdragoon'
+2/22/2013 8:10:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1221, 1723, 0) in Felucca: "chaosdragoon"
+2/22/2013 8:10:13 PM: 174.89.178.2: Serials: 0x717; 
+2/22/2013 8:10:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 8:10:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x717 "a chaos dragoon" (no account)
+2/22/2013 8:10:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 8:10:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x718 "a swamp dragon" (no account)
+2/22/2013 8:10:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:10:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002AA3 (Corpse)
+2/22/2013 8:10:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 8:10:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002AA1 (Corpse)
+##############################
+Log started on 2/22/2013 8:24:19 PM
+
+##############################
+Log started on 2/22/2013 8:34:08 PM
+
+##############################
+Log started on 2/22/2013 8:35:47 PM
+
+##############################
+Log started on 2/22/2013 8:43:34 PM
+
+2/22/2013 8:43:54 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'speedboost '
+2/22/2013 8:45:09 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'admin '
+2/22/2013 8:45:13 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 8:46:00 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'Hits' of 0x22AD "Ronin" ('stafflag') to '100'
+2/22/2013 8:46:28 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 8:47:05 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:47:35 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props bless'
+2/22/2013 8:47:38 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:47:51 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003F586 (MaleElvenRobe) to 'Blessed'
+2/22/2013 8:48:20 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:48:29 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x40037934 (Bandage) to 'Blessed'
+2/22/2013 8:48:41 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:48:53 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003EB8C (LeatherGorget) to 'Blessed'
+2/22/2013 8:49:12 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:49:35 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x40037916 (Scissors) to 'Blessed'
+2/22/2013 8:49:53 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:50:02 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003EAE4 (Bag) to 'Blessed'
+2/22/2013 8:50:20 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:50:29 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'Durability' of 0x4003EB25 (LeatherChest) to 'Indestructible'
+2/22/2013 8:50:53 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003EB25 (LeatherChest) to 'Blessed'
+2/22/2013 8:51:12 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:51:28 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003EB32 (LeatherLegs) to 'Blessed'
+2/22/2013 8:51:47 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:52:11 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003EAF5 (LeatherCap) to 'Blessed'
+2/22/2013 8:52:30 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:52:53 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003EB5A (LeatherArms) to 'Blessed'
+2/22/2013 8:53:07 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:53:18 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003F163 (ThighBoots) to 'Blessed'
+2/22/2013 8:53:40 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:54:10 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x40037915 (Dagger) to 'Blessed'
+2/22/2013 8:54:18 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'props '
+2/22/2013 8:54:44 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'LootType' of 0x4003EB26 (LeatherGloves) to 'Blessed'
+2/22/2013 8:56:17 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') used command 'admin '
+2/22/2013 8:56:25 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 8:58:18 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'Kills' of 0x22AD "Ronin" ('stafflag') to '2'
+2/22/2013 8:58:21 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/22/2013 8:59:42 PM: 127.0.0.1: Owner 0xA5AD "God" ('Matt') set property 'Karma' of 0x22AD "Ronin" ('stafflag') to '-1200'
+2/22/2013 10:10:55 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/22/2013 10:11:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/22/2013 10:12:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/22/2013 10:13:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'Name' of 0x40016FE6 (TrashChest) to 'Please Keep The Streets Clean, Place All Unwanted Items Into This Trash Can And They Will Be Removed At Once.'
+2/22/2013 10:13:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add runic'
+2/22/2013 10:15:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1423, 1698, 0) in Felucca: "MagesRuneBlade"
+2/22/2013 10:15:53 PM: 174.89.178.2: Serials: 0x40002612; 
+2/22/2013 10:16:19 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 10:16:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002612 (MagesRuneBlade)
+2/22/2013 10:16:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1423, 1698, 0) in Felucca: "RuneBeetle"
+2/22/2013 10:16:29 PM: 174.89.178.2: Serials: 0x788; 
+2/22/2013 10:16:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/22/2013 10:16:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x788 "a rune beetle" (no account)
+2/22/2013 10:17:08 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 10:17:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002632 (Corpse)
+2/22/2013 10:17:26 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1418, 1701, 3) in Felucca: "RuneCarvingKnife"
+2/22/2013 10:17:26 PM: 174.89.178.2: Serials: 0x4000264B; 
+2/22/2013 10:17:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 10:17:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x4000264B (RuneCarvingKnife)
+2/22/2013 10:19:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1417, 1703, 7) in Felucca: "SmithStone"
+2/22/2013 10:19:14 PM: 174.89.178.2: Serials: 0x400026EF; 
+2/22/2013 10:19:27 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 10:19:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400026EF (SmithStone)
+2/22/2013 10:19:54 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1417, 1703, 7) in Felucca: "SmithHammer"
+2/22/2013 10:19:54 PM: 174.89.178.2: Serials: 0x40002732; 
+2/22/2013 10:19:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/22/2013 10:19:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40002732 (SmithHammer)
