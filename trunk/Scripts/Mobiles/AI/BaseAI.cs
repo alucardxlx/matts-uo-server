@@ -33,7 +33,8 @@ namespace Server.Mobiles
 		AI_Thief,
 		AI_OrcScout, // ERICA'S
 		AI_Ninja, // ERICA'S
-		AI_Spellbinder // PAPPA SMURF's
+		AI_Spellbinder, // PAPPA SMURF's
+        AI_NecroMage
 // end 1st
 	}
 

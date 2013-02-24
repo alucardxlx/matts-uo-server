@@ -17,8 +17,8 @@ namespace Server.Mobiles
 	[CorpseName( "Jereme's corpse" )]
     public class Jereme : BaseVendor
 	{
-        private ArrayList m_SBInfos = new ArrayList();
-        protected override ArrayList SBInfos { get { return m_SBInfos; } }
+ //       private ArrayList m_SBInfos = new ArrayList();
+ //       protected override ArrayList SBInfos { get { return m_SBInfos; } }
         private List<SBInfo> m_SBInfos = new List<SBInfo>();
         protected override List<SBInfo> SBInfos { get { return m_SBInfos; } }
 
