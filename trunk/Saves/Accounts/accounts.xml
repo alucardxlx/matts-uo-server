@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<accounts count="7">
+<accounts count="8">
 	<account>
 		<username>Matt</username>
 		<newCryptPassword>EB-D8-98-79-12-34-6B-7A-46-CD-7D-20-3A-1F-EE-C8-47-2C-3A-B0</newCryptPassword>
 		<accessLevel>Owner</accessLevel>
 		<flags>2</flags>
 		<created>2013-02-17T13:36:43.2292-08:00</created>
-		<lastLogin>2013-02-22T20:43:54.9292-08:00</lastLogin>
-		<totalGameTime>P2DT15H34M9.693S</totalGameTime>
+		<lastLogin>2013-02-23T17:19:37.92-08:00</lastLogin>
+		<totalGameTime>P2DT18H57M22.272S</totalGameTime>
 		<chars>
 			<char index="0">1365</char>
 			<char index="1">42413</char>
@@ -37,8 +37,8 @@
 		<newCryptPassword>19-81-DF-F0-96-25-82-D3-F6-15-1F-EE-16-CA-92-C5-E2-A4-B4-C1</newCryptPassword>
 		<flags>2</flags>
 		<created>2013-02-18T12:54:23.8852-08:00</created>
-		<lastLogin>2013-02-22T20:44:21.8682-08:00</lastLogin>
-		<totalGameTime>PT20H16M35.838S</totalGameTime>
+		<lastLogin>2013-02-23T14:52:16.523-08:00</lastLogin>
+		<totalGameTime>PT21H36M53.833S</totalGameTime>
 		<chars>
 			<char index="0">1397</char>
 			<char index="1">8877</char>
@@ -89,8 +89,8 @@
 		<accessLevel>Developer</accessLevel>
 		<flags>2</flags>
 		<created>2013-02-21T17:24:01.5262-08:00</created>
-		<lastLogin>2013-02-22T19:00:39.5082-08:00</lastLogin>
-		<totalGameTime>PT1H55M56.196S</totalGameTime>
+		<lastLogin>2013-02-23T13:41:41.463-08:00</lastLogin>
+		<totalGameTime>PT2H10M1.764S</totalGameTime>
 		<chars>
 			<char index="0">2849</char>
 		</chars>
@@ -104,13 +104,26 @@
 		<accessLevel>Developer</accessLevel>
 		<flags>2</flags>
 		<created>2013-02-22T10:31:38.4172-08:00</created>
-		<lastLogin>2013-02-22T22:10:55.8422-08:00</lastLogin>
-		<totalGameTime>PT7H59.035S</totalGameTime>
+		<lastLogin>2013-02-23T13:36:22.466-08:00</lastLogin>
+		<totalGameTime>PT7H57M50.33S</totalGameTime>
 		<chars>
 			<char index="0">7567</char>
 		</chars>
 		<addressList count="1">
 			<ip>174.89.178.2</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>lykoi</username>
+		<newCryptPassword>F1-F5-14-F0-5E-09-D7-36-E7-A0-E2-6D-32-BB-AC-F3-B9-9C-B4-7F</newCryptPassword>
+		<created>2013-02-23T14:01:45.192-08:00</created>
+		<lastLogin>2013-02-23T14:03:47.696-08:00</lastLogin>
+		<totalGameTime>PT29M25.913S</totalGameTime>
+		<chars>
+			<char index="0">1471</char>
+		</chars>
+		<addressList count="1">
+			<ip>127.0.0.1</ip>
 		</addressList>
 	</account>
 </accounts>
