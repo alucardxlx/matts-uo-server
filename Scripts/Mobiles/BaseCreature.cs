@@ -2325,6 +2325,9 @@ namespace Server.Mobiles
 				case AIType.AI_Spellbinder:
 					m_AI = new SpellbinderAI(this);
 					break;
+                case AIType.AI_NecroMage:
+                    m_AI = new NecroMageAI(this);
+                    break;
 // end 2nd
 			}
 		}
