@@ -19,8 +19,7 @@ namespace Server.Mobiles
 		}
 
 		public WarriorGuard( Mobile target ) : base( target )
-		//public WarriorGuard( Mobile target ) : base( AIType.AI_Melee, FightMode.Aggressor, target )
-		{
+			{
 			InitStats( 1000, 1000, 1000 ); 
 			Title = "the guard";
 
@@ -306,10 +305,10 @@ namespace Server.Mobiles
 				{
 					m_Owner.Focus = null;
 				}
-				else if ( !m_Owner.InRange( target, 10 ) || !m_Owner.InLOS( target ) )
+				/*else if ( !m_Owner.InRange( target, 10 ) || !m_Owner.InLOS( target ) )  // edited by Matt - make it possible to run away
 				{
 					TeleportTo( target );
-				}
+				}*/
 				else if ( !m_Owner.InRange( target, 1 ) )
 				{
 					if ( !m_Owner.Move( m_Owner.GetDirectionTo( target ) | Direction.Running ) )
@@ -341,7 +340,7 @@ namespace Server.Mobiles
 			private WarriorGuard m_Owner;
 			private int m_Stage;
 
-			public IdleTimer( WarriorGuard owner ) : base( TimeSpan.FromSeconds( 2.0 ), TimeSpan.FromSeconds( 2.5 ) )
+			public IdleTimer( WarriorGuard owner ) : base( TimeSpan.FromSeconds( 1.0 ), TimeSpan.FromSeconds( 1.5 ) )
 			{
 				m_Owner = owner;
 			}
