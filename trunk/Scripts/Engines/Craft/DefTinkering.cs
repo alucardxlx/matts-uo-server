@@ -6,7 +6,20 @@ using Server.Targeting;
 
 namespace Server.Engines.Craft
 {
-	public class DefTinkering : CraftSystem
+    public enum TinkerRecipes
+    {
+        InvisibilityPotion = 400,
+        DarkglowPotion = 401,
+        ParasiticPotion = 402,
+
+        EssenceOfBattle = 450,
+        PendantOfTheMagi = 451,
+        ResilientBracer = 452,
+        ScrappersCompendium = 453,
+        HoveringWisp = 454,
+    }
+
+    public class DefTinkering : CraftSystem
 	{
 		public override SkillName MainSkill
 		{
@@ -337,7 +350,76 @@ namespace Server.Engines.Craft
 			AddRes( index, typeof( IronIngot ), 1044036, 10, 1044037 );
 			#endregion
 
-			// Set the overridable material
+            #region Mondain's Legacy Magic Jewlery
+            if (Core.ML)
+            {
+                index = AddCraft(typeof(BrilliantAmberBracelet), 1073107, 1073453, 75.0, 125.0, typeof(IronIngot), 1044036, 5, 1044037);
+                AddRes(index, typeof(Amber), 1062607, 20, 1044240);
+                AddRes(index, typeof(BrilliantAmber), 1032697, 10, 1044240);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(FireRubyBracelet), 1073107, 1073454, 75.0, 125.0, typeof(IronIngot), 1044036, 5, 1044037);
+                AddRes(index, typeof(Ruby), 1062603, 20, 1044240);
+                AddRes(index, typeof(FireRuby), 1032695, 10, 1044240);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(DarkSapphireBracelet), 1073107, 1073455, 75.0, 125.0, typeof(IronIngot), 1044036, 5, 1044037);
+                AddRes(index, typeof(Sapphire), 1062602, 20, 1044240);
+                AddRes(index, typeof(DarkSapphire), 1032690, 10, 1044240);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(WhitePearlBracelet), 1073107, 1073456, 75.0, 125.0, typeof(IronIngot), 1044036, 5, 1044037);
+                AddRes(index, typeof(Tourmaline), 1062606, 20, 1044240);
+                AddRes(index, typeof(WhitePearl), 1032694, 10, 1044240);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(EcruCitrineRing), 1073107, 1073457, 75.0, 125.0, typeof(IronIngot), 1044036, 5, 1044037);
+                AddRes(index, typeof(Citrine), 1062604, 20, 1044240);
+                AddRes(index, typeof(EcruCitrine), 1032693, 10, 1044240);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(BlueDiamondRing), 1073107, 1073458, 75.0, 125.0, typeof(IronIngot), 1044036, 5, 1044037);
+                AddRes(index, typeof(Diamond), 1062608, 20, 1044240);
+                AddRes(index, typeof(BlueDiamond), 1032696, 10, 1044240);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(PerfectEmeraldRing), 1073107, 1073459, 75.0, 125.0, typeof(IronIngot), 1044036, 5, 1044037);
+                AddRes(index, typeof(Emerald), 1062601, 20, 1044240);
+                AddRes(index, typeof(PerfectEmerald), 1032692, 10, 1044240);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(TurqouiseRing), 1073107, 1073460, 75.0, 125.0, typeof(IronIngot), 1044036, 5, 1044037);
+                AddRes(index, typeof(Amethyst), 1062605, 20, 1044240);
+                AddRes(index, typeof(Turquoise), 1032691, 10, 1044240);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(ResilientBracer), 1073107, 1072933, 100.0, 125.0, typeof(IronIngot), 1044036, 2, 1044037);
+                AddRes(index, typeof(CapturedEssence), 1032686, 1, 1044253);
+                AddRes(index, typeof(BlueDiamond), 1032696, 10, 1044253);
+                AddRes(index, typeof(Diamond), 1062608, 50, 1044253);
+                AddRecipe(index, (int)TinkerRecipes.ResilientBracer);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(EssenceOfBattle), 1073107, 1072935, 100.0, 125.0, typeof(IronIngot), 1044036, 2, 1044037);
+                AddRes(index, typeof(CapturedEssence), 1032686, 1, 1044253);
+                AddRes(index, typeof(FireRuby), 1032695, 10, 1044253);
+                AddRes(index, typeof(Ruby), 1062603, 50, 1044253);
+                AddRecipe(index, (int)TinkerRecipes.EssenceOfBattle);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(PendantOfTheMagi), 1073107, 1072937, 100.0, 125.0, typeof(IronIngot), 1044036, 2, 1044037);
+                AddRes(index, typeof(EyeOfTheTravesty), 1032685, 1, 1044253);
+                AddRes(index, typeof(WhitePearl), 1032694, 10, 1044253);
+                AddRes(index, typeof(StarSapphire), 1062600, 50, 1044253);
+                AddRecipe(index, (int)TinkerRecipes.PendantOfTheMagi);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+            }
+            #endregion
+
+            // Set the overridable material
 			SetSubRes( typeof( IronIngot ), 1044022 );
 
 			// Add every material you want the player to be able to choose from

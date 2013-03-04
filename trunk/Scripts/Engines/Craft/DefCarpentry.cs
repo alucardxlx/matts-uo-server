@@ -3,7 +3,40 @@ using Server.Items;
 
 namespace Server.Engines.Craft
 {
-	public class DefCarpentry : CraftSystem
+    #region Mondain's Legacy
+    public enum CarpRecipes
+    {
+        // stuff
+        WarriorStatueSouth = 100,
+        WarriorStatueEast = 101,
+        SquirrelStatueSouth = 102,
+        SquirrelStatueEast = 103,
+        AcidProofRope = 104,
+        OrnateElvenChair = 105,
+        ArcaneBookshelfSouth = 106,
+        ArcaneBookshelfEast = 107,
+        OrnateElvenChestSouth = 108,
+        ElvenDresserSouth = 109,
+        ElvenDresserEast = 110,
+        FancyElvenArmoire = 111,
+        ArcanistsWildStaff = 112,
+        AncientWildStaff = 113,
+        ThornedWildStaff = 114,
+        HardenedWildStaff = 115,
+        TallElvenBedSouth = 116,
+        TallElvenBedEast = 117,
+        StoneAnvilSouth = 118,
+        StoneAnvilEast = 119,
+        OrnateElvenChestEast = 120,
+
+        // arties
+        PhantomStaff = 150,
+        IronwoodCrown = 151,
+        BrambleCoat = 152
+    }
+    #endregion
+
+    public class DefCarpentry : CraftSystem
 	{
 		public override SkillName MainSkill
 		{
@@ -125,16 +158,66 @@ namespace Server.Engines.Craft
 				AddRes( index, typeof( Cloth ), 1044286, 5, 1044287 );
 			}
 
-			if ( Core.ML )
+            #region Mondain's Legacy
+            if (Core.ML)
 			{
-				index = AddCraft( typeof( RunedSwitch ), 1044294, 1072896, 70.0, 120.0, typeof( Log ), 1044041, 2, 1044351 );
+                index = AddCraft(typeof(WoodenContainerEngraver), 1044294, 1072153, 75.0, 100.0, typeof(Log), 1044041, 4, 1044351);
+                AddRes(index, typeof(IronIngot), 1044036, 2, 1044037);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(RunedSwitch), 1044294, 1072896, 70.0, 120.0, typeof(Log), 1044041, 2, 1044351);
 				AddRes( index, typeof( EnchantedSwitch ), 1072893, 1, 1053098 );
 				AddRes( index, typeof( RunedPrism ), 1073465, 1, 1053098 );
 				AddRes( index, typeof( JeweledFiligree ), 1072894, 1, 1053098 );
 				SetNeededExpansion( index, Expansion.ML );
-			}
 
-			// Furniture
+                index = AddCraft(typeof(ArcanistStatueSouthDeed), 1044294, 1072885, 0.0, 35.0, typeof(Log), 1044041, 250, 1044351);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(ArcanistStatueEastDeed), 1044294, 1072886, 0.0, 35.0, typeof(Log), 1044041, 250, 1044351);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(WarriorStatueSouthDeed), 1044294, 1072887, 0.0, 35.0, typeof(Log), 1044041, 250, 1044351);
+                AddRecipe(index, (int)CarpRecipes.WarriorStatueSouth);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(WarriorStatueEastDeed), 1044294, 1072888, 0.0, 35.0, typeof(Log), 1044041, 250, 1044351);
+                AddRecipe(index, (int)CarpRecipes.WarriorStatueEast);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(SquirrelStatueSouthDeed), 1044294, 1072884, 0.0, 35.0, typeof(Log), 1044041, 250, 1044351);
+                AddRecipe(index, (int)CarpRecipes.SquirrelStatueSouth);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(SquirrelStatueEastDeed), 1044294, 1073398, 0.0, 35.0, typeof(Log), 1044041, 250, 1044351);
+                AddRecipe(index, (int)CarpRecipes.SquirrelStatueEast);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(GiantReplicaAcorn), 1044294, 1072889, 80.0, 105.0, typeof(Log), 1044041, 35, 1044351);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(MountedDreadHorn), 1044294, 1032632, 90.0, 115.0, typeof(Log), 1044041, 50, 1044351);
+                AddRes(index, typeof(PristineDreadHorn), 1032634, 1, 1053098);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(AcidProofRope), 1044294, 1074886, 80, 130.0, typeof(GreaterStrengthPotion), 1073466, 2, 1044253);
+                AddRes(index, typeof(ProtectionScroll), 1044395, 1, 1053098);
+                AddRes(index, typeof(SwitchItem), 1032127, 1, 1053098);
+                AddRecipe(index, (int)CarpRecipes.AcidProofRope);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+            }
+            #endregion
+
+            // Furniture
 			AddCraft( typeof( FootStool ),					1044291, 1022910,	11.0,  36.0,	typeof( Log ), 1044041,  9, 1044351 );
 			AddCraft( typeof( Stool ),						1044291, 1022602,	11.0,  36.0,	typeof( Log ), 1044041,  9, 1044351 );
 			AddCraft( typeof( BambooChair ),				1044291, 1044300,	21.0,  46.0,	typeof( Log ), 1044041, 13, 1044351 );

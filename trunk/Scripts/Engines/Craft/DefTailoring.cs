@@ -3,7 +3,20 @@ using Server.Items;
 
 namespace Server.Engines.Craft
 {
-	public class DefTailoring : CraftSystem
+    public enum TailorRecipe
+    {
+        ElvenQuiver = 501,
+        QuiverOfFire = 502,
+        QuiverOfIce = 503,
+        QuiverOfBlight = 504,
+        QuiverOfLightning = 505,
+
+        SongWovenMantle = 550,
+        SpellWovenBritches = 551,
+        StitchersMittens = 552,
+    }
+
+    public class DefTailoring : CraftSystem
 	{
 		public override SkillName MainSkill
 		{
@@ -167,6 +180,23 @@ namespace Server.Engines.Craft
 				index = AddCraft( typeof( JinBaori ), 1015269, 1030220, 30.0, 55.0, typeof( Cloth ), 1044286, 12, 1044287 );
 				SetNeededExpansion( index, Expansion.SE );
 			}
+ 
+            #region Mondain's Legacy
+            if (Core.ML)
+            {
+                index = AddCraft(typeof(ElvenShirt), 1015269, 1032661, 80.0, 105.0, typeof(Cloth), 1044286, 10, 1044287);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(ElvenDarkShirt), 1015269, 1032662, 80.0, 105.0, typeof(Cloth), 1044286, 10, 1044287);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(MaleElvenRobe), 1015269, 1032659, 80.0, 105.0, typeof(Cloth), 1044286, 30, 1044287);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(FemaleElvenRobe), 1015269, 1032660, 80.0, 105.0, typeof(Cloth), 1044286, 30, 1044287);
+                SetNeededExpansion(index, Expansion.ML);
+            }
+            #endregion
 
 			#endregion
 
@@ -187,6 +217,17 @@ namespace Server.Engines.Craft
 				SetNeededExpansion( index, Expansion.SE );
 			}
 
+            #region Mondain's Legacy
+            if (Core.ML)
+            {
+                index = AddCraft(typeof(ElvenPants), 1015279, 1032665, 80.0, 105.0, typeof(Cloth), 1044286, 12, 1044287);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(WoodlandBelt), 1015279, 1032639, 80.0, 105.0, typeof(Cloth), 1044286, 10, 1044287);
+                SetNeededExpansion(index, Expansion.ML);
+            }
+            #endregion
+
 			#endregion
 
 			#region Misc
@@ -203,28 +244,37 @@ namespace Server.Engines.Craft
 			if( Core.ML )
 			{
 				index = AddCraft( typeof( ElvenQuiver ), 1015283, 1032657, 65.0, 115.0, typeof( Leather ), 1044462, 28, 1044463 );
-				AddRecipe( index, 501 );
+                AddRecipe(index, (int)TailorRecipe.ElvenQuiver);
 				SetNeededExpansion( index, Expansion.ML );
 
 				index = AddCraft( typeof( QuiverOfFire ), 1015283, 1073109, 65.0, 115.0, typeof( Leather ), 1044462, 28, 1044463 );
 				AddRes( index, typeof( FireRuby ), 1032695, 15, 1042081 );
-				AddRecipe( index, 502 );
+				AddRecipe( index, (int)TailorRecipe.QuiverOfFire );
 				SetNeededExpansion( index, Expansion.ML );
 
 				index = AddCraft( typeof( QuiverOfIce ), 1015283, 1073110, 65.0, 115.0, typeof( Leather ), 1044462, 28, 1044463 );
 				AddRes( index, typeof( WhitePearl ), 1032694, 15, 1042081 );
-				AddRecipe( index, 503 );
+				AddRecipe( index, (int)TailorRecipe.QuiverOfIce );
 				SetNeededExpansion( index, Expansion.ML );
 
 				index = AddCraft( typeof( QuiverOfBlight ), 1015283, 1073111, 65.0, 115.0, typeof( Leather ), 1044462, 28, 1044463 );
 				AddRes( index, typeof( Blight ), 1032675, 10, 1042081 );
-				AddRecipe( index, 504 );
+                AddRecipe(index, (int)TailorRecipe.QuiverOfBlight);
 				SetNeededExpansion( index, Expansion.ML );
 
 				index = AddCraft( typeof( QuiverOfLightning ), 1015283, 1073112, 65.0, 115.0, typeof( Leather ), 1044462, 28, 1044463 );
 				AddRes( index, typeof( Corruption ), 1032676, 10, 1042081 );
-				AddRecipe( index, 505 );
+                AddRecipe(index, (int)TailorRecipe.QuiverOfLightning);
 				SetNeededExpansion( index, Expansion.ML );
+
+                #region Mondain's Legacy
+                index = AddCraft(typeof(LeatherContainerEngraver), 1015283, 1072152, 75.0, 100.0, typeof(Bone), 1049064, 1, 1049063);
+                AddRes(index, typeof(Leather), 1044462, 6, 1044463);
+                AddRes(index, typeof(SpoolOfThread), 1073462, 2, 1073463);
+                AddRes(index, typeof(Dyes), 1024009, 6, 1044253);
+                SetNeededExpansion(index, Expansion.ML);
+                #endregion
+
 			}
 
 			AddCraft( typeof( OilCloth ), 1015283, 1041498, 74.6, 99.6, typeof( Cloth ), 1044286, 1, 1044287 );
@@ -252,6 +302,15 @@ namespace Server.Engines.Craft
 			#endregion
 
 			#region Footwear
+
+            #region Mondain's Legacy
+            if (Core.ML)
+            {
+                index = AddCraft(typeof(ElvenBoots), 1015283, 1072902, 80.0, 105.0, typeof(Leather), 1044462, 15, 1044463);
+                SetNeededExpansion(index, Expansion.ML);
+            }
+            #endregion
+
 			if ( Core.AOS )
 				AddCraft( typeof( FurBoots ), 1015288, 1028967, 50.0, 75.0, typeof( Cloth ), 1044286, 12, 1044287 );
 
@@ -271,7 +330,36 @@ namespace Server.Engines.Craft
 
 			#region Leather Armor
 
-			AddCraft( typeof( LeatherGorget ), 1015293, 1025063, 53.9, 78.9, typeof( Leather ), 1044462, 4, 1044463 );
+            #region Mondain's Legacy
+            if (Core.ML)
+            {
+                index = AddCraft(typeof(SpellWovenBritches), 1015293, 1072929, 92.5, 117.5, typeof(Leather), 1044462, 15, 1044463);
+                AddRes(index, typeof(EyeOfTheTravesty), 1032685, 1, 1044253);
+                AddRes(index, typeof(Putrefication), 1032678, 10, 1044253);
+                AddRes(index, typeof(Scourge), 1032677, 10, 1044253);
+                AddRecipe(index, (int)TailorRecipe.SpellWovenBritches);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(SongWovenMantle), 1015293, 1072931, 92.5, 117.5, typeof(Leather), 1044462, 15, 1044463);
+                AddRes(index, typeof(EyeOfTheTravesty), 1032685, 1, 1044253);
+                AddRes(index, typeof(Blight), 1032675, 10, 1044253);
+                AddRes(index, typeof(Muculent), 1032680, 10, 1044253);
+                AddRecipe(index, (int)TailorRecipe.SongWovenMantle);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(StitchersMittens), 1015293, 1072932, 92.5, 117.5, typeof(Leather), 1044462, 15, 1044463);
+                AddRes(index, typeof(CapturedEssence), 1032686, 1, 1044253);
+                AddRes(index, typeof(Corruption), 1032676, 10, 1044253);
+                AddRes(index, typeof(Taint), 1032679, 10, 1044253);
+                AddRecipe(index, (int)TailorRecipe.StitchersMittens);
+                ForceNonExceptional(index);
+                SetNeededExpansion(index, Expansion.ML);
+            }
+            #endregion
+
+            AddCraft(typeof(LeatherGorget), 1015293, 1025063, 53.9, 78.9, typeof(Leather), 1044462, 4, 1044463);
 			AddCraft( typeof( LeatherCap ), 1015293, 1027609, 6.2, 31.2, typeof( Leather ), 1044462, 2, 1044463 );
 			AddCraft( typeof( LeatherGloves ), 1015293, 1025062, 51.8, 76.8, typeof( Leather ), 1044462, 3, 1044463 );
 			AddCraft( typeof( LeatherArms ), 1015293, 1025061, 53.9, 78.9, typeof( Leather ), 1044462, 4, 1044463 );
@@ -327,7 +415,27 @@ namespace Server.Engines.Craft
 				SetNeededExpansion( index, Expansion.SE );
 			}
 
-			#endregion
+            #region Mondain's Legacy
+            if (Core.ML)
+            {
+                index = AddCraft(typeof(HideChest), 1015300, 1032651, 85.0, 110.0, typeof(Leather), 1044462, 15, 1044463);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(HidePauldrons), 1015300, 1032654, 75.0, 100.0, typeof(Leather), 1044462, 12, 1044463);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(HideGloves), 1015300, 1032652, 75.0, 100.0, typeof(Leather), 1044462, 10, 1044463);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(HidePants), 1015300, 1032655, 92.0, 117.0, typeof(Leather), 1044462, 15, 1044463);
+                SetNeededExpansion(index, Expansion.ML);
+
+                index = AddCraft(typeof(HideGorget), 1015300, 1032653, 90.0, 115.0, typeof(Leather), 1044462, 12, 1044463);
+                SetNeededExpansion(index, Expansion.ML);
+            }
+            #endregion
+
+            #endregion
 
 			#region Female Armor
 			AddCraft( typeof( LeatherShorts ), 1015306, 1027168, 62.2, 87.2, typeof( Leather ), 1044462, 8, 1044463 );
