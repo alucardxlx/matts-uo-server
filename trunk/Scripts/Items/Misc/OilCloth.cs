@@ -116,7 +116,7 @@ namespace Server.Items
 					Firebomb bomb = new Firebomb( beverage.ItemID );
 					bomb.Name = beverage.Name;
 
-					beverage.ReplaceWith( bomb );
+//					beverage.ReplaceWith( bomb );
 
 					from.SendLocalizedMessage( 1060580 ); // You prepare a firebomb.
 					Consume();
