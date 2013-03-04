@@ -225,6 +225,12 @@ namespace Server.Misc
 					}
 				}
 
+                #region Mondain's Legacy
+                if (from is PlayerMobile)
+                    if (Server.Engines.Quests.QuestHelper.EnhancedSkill((PlayerMobile)from, skill))
+                        toGain *= Utility.RandomMinMax(2, 4);
+                #endregion
+
 				#region Scroll of Alacrity
 				PlayerMobile pm = from as PlayerMobile;
 
@@ -238,7 +244,12 @@ namespace Server.Misc
 				}
 			}
 
-			if ( skill.Lock == SkillLock.Up )
+            #region Mondain's Legacy
+            if (from is PlayerMobile)
+                Server.Engines.Quests.QuestHelper.CheckSkill((PlayerMobile)from, skill);
+            #endregion
+            
+            if (skill.Lock == SkillLock.Up)
 			{
 				SkillInfo info = skill.Info;
 
