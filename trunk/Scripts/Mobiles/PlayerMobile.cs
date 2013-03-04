@@ -293,6 +293,15 @@ namespace Server.Mobiles
 			set { CandyCane.SetToothAche( this, value ); }
 		}
 
+        private int m_VASTotalMonsterFame;
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public int VASTotalMonsterFame
+        {
+            get { return m_VASTotalMonsterFame; }
+            set { m_VASTotalMonsterFame = value; }
+        }
+
 		#endregion
 
 		#region PlayerFlags
@@ -2507,7 +2516,17 @@ namespace Server.Mobiles
 		{
 			m_AutoStabled = new List<Mobile>();
 
-			m_VisList = new List<Mobile>();
+            #region Mondain's Legacy
+            m_Quests = new List<BaseQuest>();
+            m_Chains = new Dictionary<QuestChain, BaseChain>();
+            m_DoneQuests = new List<QuestRestartInfo>();
+            m_Collections = new Dictionary<Collection, int>();
+            m_CollectionTitles = new List<object>();
+
+            m_Peaced = DateTime.Now;
+            #endregion
+
+            m_VisList = new List<Mobile>();
 			m_PermaFlags = new List<Mobile>();
 			m_AntiMacroTable = new Hashtable();
 			m_RecentlyReported = new List<Mobile>();
@@ -2787,7 +2806,12 @@ namespace Server.Mobiles
 
 			switch ( version )
 			{
-				case 28:
+                case 29:
+                    {
+                        m_VASTotalMonsterFame = reader.ReadInt();
+                        goto case 28;
+                    }
+                case 28:
 				{
 					m_PeacedUntil = reader.ReadDateTime();
 
@@ -2803,8 +2827,25 @@ namespace Server.Mobiles
 				{
 					m_AutoStabled = reader.ReadStrongMobileList();
 
-					goto case 25;
-				}
+                    #region Mondain's Legacy
+                    m_Quests = QuestReader.Quests(reader, this);
+                    m_Chains = QuestReader.Chains(reader);
+
+                    m_Collections = new Dictionary<Collection, int>();
+                    m_CollectionTitles = new List<object>();
+
+                    for (int i = reader.ReadInt(); i > 0; i--)
+                        m_Collections.Add((Collection)reader.ReadInt(), reader.ReadInt());
+
+                    for (int i = reader.ReadInt(); i > 0; i--)
+                        m_CollectionTitles.Add(QuestReader.Object(reader));
+
+                    m_SelectedTitle = reader.ReadInt();
+                    m_Peaced = reader.ReadDateTime();
+                    #endregion
+
+                    goto case 25;
+                }
 				case 25:
 				{
 					int recipeCount = reader.ReadInt();
@@ -3012,7 +3053,24 @@ namespace Server.Mobiles
 			if (m_RecentlyReported == null)
 				m_RecentlyReported = new List<Mobile>();
 
-			// Professions weren't verified on 1.0 RC0
+            #region Mondain's Legacy
+            if (m_Quests == null)
+                m_Quests = new List<BaseQuest>();
+
+            if (m_Chains == null)
+                m_Chains = new Dictionary<QuestChain, BaseChain>();
+
+            if (m_DoneQuests == null)
+                m_DoneQuests = new List<QuestRestartInfo>();
+
+            if (m_Collections == null)
+                m_Collections = new Dictionary<Collection, int>();
+
+            if (m_CollectionTitles == null)
+                m_CollectionTitles = new List<object>();
+            #endregion
+            
+            // Professions weren't verified on 1.0 RC0
 			if ( !CharacterCreation.VerifyProfession( m_Profession ) )
 				m_Profession = 0;
 
@@ -3078,13 +3136,48 @@ namespace Server.Mobiles
 
 			base.Serialize( writer );
 
-			writer.Write( (int) 28 ); // version
+			writer.Write( (int) 29 ); // version
 
 			writer.Write( (DateTime) m_PeacedUntil );
 			writer.Write( (DateTime) m_AnkhNextUse );
 			writer.Write( m_AutoStabled, true );
 
-			if( m_AcquiredRecipes == null )
+            #region Mondain's Legacy version 26
+            QuestWriter.Quests(writer, m_Quests);
+            QuestWriter.Chains(writer, m_Chains);
+
+            if (m_Collections == null)
+            {
+                writer.Write((int)0);
+            }
+            else
+            {
+                writer.Write((int)m_Collections.Count);
+
+                foreach (KeyValuePair<Collection, int> pair in m_Collections)
+                {
+                    writer.Write((int)pair.Key);
+                    writer.Write((int)pair.Value);
+                }
+            }
+
+            if (m_CollectionTitles == null)
+            {
+                writer.Write((int)0);
+            }
+            else
+            {
+                writer.Write((int)m_CollectionTitles.Count);
+
+                for (int i = 0; i < m_CollectionTitles.Count; i++)
+                    QuestWriter.Object(writer, m_CollectionTitles[i]);
+            }
+
+            writer.Write((int)m_SelectedTitle);
+            writer.Write((DateTime)m_Peaced);
+            #endregion
+            
+            if (m_AcquiredRecipes == null)
 			{
 				writer.Write( (int)0 );
 			}
@@ -3501,6 +3594,127 @@ namespace Server.Mobiles
 			set{ m_SolenFriendship = value; }
 		}
 		#endregion
+
+        #region Mondain's Legacy
+        private List<BaseQuest> m_Quests;
+        private Dictionary<QuestChain, BaseChain> m_Chains;
+
+        public List<BaseQuest> Quests
+        {
+            get { return m_Quests; }
+        }
+
+        public Dictionary<QuestChain, BaseChain> Chains
+        {
+            get { return m_Chains; }
+        }
+
+        private DateTime m_Peaced;
+
+        // Already define higher up
+        //[CommandProperty(AccessLevel.GameMaster)]
+        //public DateTime PeacedUntil
+        //{
+        //    get { return m_Peaced; }
+        //    set { m_Peaced = value; }
+        //}
+
+        [CommandProperty(AccessLevel.GameMaster)]
+        public bool Peaced
+        {
+            get
+            {
+                if (m_Peaced > DateTime.Now)
+                    return true;
+
+                return false;
+            }
+        }
+
+        private Dictionary<Collection, int> m_Collections;
+        private List<object> m_CollectionTitles;
+        private int m_SelectedTitle;
+
+        public Dictionary<Collection, int> Collections
+        {
+            get { return m_Collections; }
+        }
+
+        public List<object> CollectionTitles
+        {
+            get { return m_CollectionTitles; }
+        }
+
+        public int GetCollectionPoints(Collection collection)
+        {
+            if (m_Collections == null)
+                m_Collections = new Dictionary<Collection, int>();
+
+            int points = 0;
+
+            if (m_Collections.ContainsKey(collection))
+                m_Collections.TryGetValue(collection, out points);
+
+            return points;
+        }
+
+        public void AddCollectionPoints(Collection collection, int points)
+        {
+            if (m_Collections == null)
+                m_Collections = new Dictionary<Collection, int>();
+
+            if (m_Collections.ContainsKey(collection))
+                m_Collections[collection] += points;
+            else
+                m_Collections.Add(collection, points);
+        }
+
+        public void SelectCollectionTitle(int num)
+        {
+            if (num == -1)
+            {
+                m_SelectedTitle = num;
+                SendLocalizedMessage(1074010); // You elect to hide your Reward Title.
+            }
+            else if (num < m_CollectionTitles.Count && num >= -1)
+            {
+                if (m_SelectedTitle != num)
+                {
+                    m_SelectedTitle = num;
+
+                    if (m_CollectionTitles[num] is int)
+                        SendLocalizedMessage(1074008, "#" + (int)m_CollectionTitles[num]); // You change your Reward Title to "~1_TITLE~".	
+                    else if (m_CollectionTitles[num] is string)
+                        SendLocalizedMessage(1074008, (string)m_CollectionTitles[num]); // You change your Reward Title to "~1_TITLE~".	
+                }
+                else
+                    SendLocalizedMessage(1074009); // You decide to leave your title as it is.
+            }
+
+            InvalidateProperties();
+        }
+
+        public bool AddCollectionTitle(object title)
+        {
+            if (m_CollectionTitles == null)
+                m_CollectionTitles = new List<object>();
+
+            if (title != null && !m_CollectionTitles.Contains(title))
+            {
+                m_CollectionTitles.Add(title);
+                m_SelectedTitle = m_CollectionTitles.Count - 1;
+                InvalidateProperties();
+                return true;
+            }
+
+            return false;
+        }
+
+        public void ShowChangeTitle()
+        {
+            SendGump(new SelectTitleGump(this, m_SelectedTitle));
+        }
+        #endregion
 
 		#region MyRunUO Invalidation
 		private bool m_ChangedMyRunUO;
