@@ -4,3 +4,36 @@ System.Net.Sockets.SocketException: An existing connection was forcibly closed b
    at Server.Network.NetState.Flush()
 
 
+# 2/24/2013 6:52:52 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Server.Network.Listener.OnAccept(IAsyncResult asyncResult)
+
+
+# 2/24/2013 6:53:13 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Server.Network.Listener.OnAccept(IAsyncResult asyncResult)
+
+
+# 2/24/2013 6:53:34 AM
+System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndAccept(Byte[]& buffer, Int32& bytesTransferred, IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndAccept(IAsyncResult asyncResult)
+   at Server.Network.Listener.OnAccept(IAsyncResult asyncResult)
+
+
+# 2/28/2013 7:44:47 PM
+System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Flush()
+
+
+# 3/2/2013 8:10:07 AM
+System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginSend(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at Server.Network.NetState.Send(Packet p)
+
+

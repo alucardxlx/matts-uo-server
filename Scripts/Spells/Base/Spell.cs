@@ -288,7 +288,7 @@ namespace Server.Spells
 
 		public virtual double GetDamageScalar( Mobile target )
 		{
-			double scalar = 1.0;
+			double scalar = 0.7;
 
 			if( !Core.AOS )	//EvalInt stuff for AoS is handled elsewhere
 			{
