@@ -75,7 +75,16 @@ namespace Server.Misc
 			if ( CheckAnimal( from, typeof( Dog ) ) || CheckAnimal( from, typeof( Cat ) ) )
 				points += from.Skills[SkillName.Ninjitsu].Fixed / 30;
 
-			return TimeSpan.FromSeconds( 1.0 / (0.1 * (1 + points)) );
+            //Changed By Matt to reduce mobs regen rate
+			//return TimeSpan.FromSeconds( 1.0 / (0.1 * (1 + points)) );
+
+            double mult = 0.1;
+            if (!from.Player)
+            {
+                mult = 0.03;
+            }
+
+            return TimeSpan.FromSeconds(1.0 / (mult * (1 + points)));
 		}
 
 		private static TimeSpan Mobile_StamRegenRate( Mobile from )

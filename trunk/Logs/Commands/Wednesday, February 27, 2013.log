@@ -1,0 +1,607 @@
+##############################
+Log started on 2/27/2013 12:29:25 PM
+
+##############################
+Log started on 2/27/2013 12:35:44 PM
+
+2/27/2013 12:36:28 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'speedboost '
+2/27/2013 12:36:38 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 12:36:47 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 12:37:04 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 12:38:15 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Get Location'
+2/27/2013 12:38:30 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Get Location'
+2/27/2013 12:39:57 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Target' of 0x40011903 (Moongate) to '(6067, 1375, 30)'
+2/27/2013 12:40:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Tele'
+2/27/2013 12:40:45 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Target' of 0x40011903 (Moongate) to '(6079, 1375, 30)'
+##############################
+Log started on 2/27/2013 12:43:04 PM
+
+2/27/2013 12:43:18 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'speedboost '
+2/27/2013 12:49:46 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'gmbody '
+2/27/2013 12:49:51 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'staffrunebook '
+2/27/2013 12:50:34 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 12:51:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 12:51:17 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 12:51:20 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x7F3 "a skeleton" (no account)
+2/27/2013 12:52:27 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add wraith'
+2/27/2013 12:52:29 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1366, 1508, 13) in Felucca: "wraith"
+2/27/2013 12:52:29 PM: 127.0.0.1: Serials: 0x556; 
+2/27/2013 12:53:06 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 12:53:10 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 12:53:22 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 12:53:23 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x556 "a wraith" (no account)
+2/27/2013 12:53:55 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add gazer'
+2/27/2013 12:53:56 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1358, 1508, 15) in Felucca: "gazer"
+2/27/2013 12:53:56 PM: 127.0.0.1: Serials: 0x55D; 
+2/27/2013 12:55:01 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 12:55:08 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x55D "a gazer" (no account)
+2/27/2013 12:57:32 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 12:57:54 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property '[Resisting Spells: 0].Base' of 0x514 "Tripnasty" ('Tripneustes') to '0'
+2/27/2013 12:59:54 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property '[Resisting Spells: 50].Base' of 0x514 "Tripnasty" ('Tripneustes') to '50'
+2/27/2013 1:00:25 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property '[Resisting Spells: 80].Base' of 0x514 "Tripnasty" ('Tripneustes') to '80'
+2/27/2013 1:01:24 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property '[Resisting Spells: 100].Base' of 0x514 "Tripnasty" ('Tripneustes') to '100'
+2/27/2013 1:08:15 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add wraith'
+2/27/2013 1:08:16 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1354, 1508, 17) in Felucca: "wraith"
+2/27/2013 1:08:16 PM: 127.0.0.1: Serials: 0x5BC; 
+2/27/2013 1:08:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 1:09:29 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x5BC "a wraith" (no account)
+2/27/2013 1:10:36 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add '
+2/27/2013 1:10:52 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add HeartOfTheLion'
+2/27/2013 1:10:53 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1379, 1489, 10) in Felucca: "HeartOfTheLion"
+2/27/2013 1:10:53 PM: 127.0.0.1: Serials: 0x40001CD3; 
+2/27/2013 1:11:07 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 1:11:08 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x40001CD3 (HeartOfTheLion)
+2/27/2013 1:11:12 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add PlateChest'
+2/27/2013 1:11:13 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1379, 1489, 10) in Felucca: "PlateChest"
+2/27/2013 1:11:13 PM: 127.0.0.1: Serials: 0x40001D42; 
+2/27/2013 1:11:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add PlateArms'
+2/27/2013 1:11:23 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1378, 1490, 10) in Felucca: "PlateArms"
+2/27/2013 1:11:23 PM: 127.0.0.1: Serials: 0x40001D6F; 
+2/27/2013 1:11:29 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 1:11:57 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Str' of 0x514 "Tripnasty" ('Tripneustes') to '100'
+2/27/2013 1:12:07 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add PlateGloves'
+2/27/2013 1:12:08 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1379, 1488, 10) in Felucca: "PlateGloves"
+2/27/2013 1:12:08 PM: 127.0.0.1: Serials: 0x40001DD5; 
+2/27/2013 1:12:12 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add PlateLegs'
+2/27/2013 1:12:13 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1379, 1489, 10) in Felucca: "PlateLegs"
+2/27/2013 1:12:13 PM: 127.0.0.1: Serials: 0x40001DE7; 
+2/27/2013 1:12:16 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add PlateHelm'
+2/27/2013 1:12:17 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1378, 1490, 10) in Felucca: "PlateHelm"
+2/27/2013 1:12:17 PM: 127.0.0.1: Serials: 0x40001DED; 
+2/27/2013 1:12:22 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add PlateGorget'
+2/27/2013 1:12:23 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1378, 1487, 10) in Felucca: "PlateGorget"
+2/27/2013 1:12:23 PM: 127.0.0.1: Serials: 0x40001DF3; 
+2/27/2013 1:12:39 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Hits' of 0x514 "Tripnasty" ('Tripneustes') to '100'
+2/27/2013 1:13:56 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add metalshield'
+2/27/2013 1:13:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1379, 1489, 10) in Felucca: "metalshield"
+2/27/2013 1:13:58 PM: 127.0.0.1: Serials: 0x40001F13; 
+2/27/2013 1:15:53 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Hits' of 0x514 "Tripnasty" ('Tripneustes') to '100'
+2/27/2013 1:16:10 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property '[Resisting Spells: 0].Base' of 0x514 "Tripnasty" ('Tripneustes') to '0'
+2/27/2013 1:17:08 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Hits' of 0x514 "Tripnasty" ('Tripneustes') to '100'
+2/27/2013 1:38:27 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add leatherleg'
+2/27/2013 1:38:31 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1383, 1495, 10) in Felucca: "LeatherLegs"
+2/27/2013 1:38:31 PM: 127.0.0.1: Serials: 0x40002C94; 
+2/27/2013 1:52:37 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 1:54:39 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 1:54:41 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x7CD "a spectre" (no account)
+2/27/2013 1:54:44 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 1:55:13 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property '[Resisting Spells: 65].Base' of 0x514 "Tripnasty" ('Tripneustes') to '65'
+2/27/2013 2:48:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/27/2013 2:48:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+2/27/2013 2:48:58 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') going to 0x86C "Hephaestus" ('Tripneustes'), Location (2498, 561, 0), Map Felucca
+2/27/2013 2:50:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+2/27/2013 2:50:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') going to 0x555 "Matt" ('Matt'), Location (1380, 1494, 10), Map Felucca
+2/27/2013 2:56:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/27/2013 2:56:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+2/27/2013 2:56:54 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'skills '
+2/27/2013 2:57:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property '[Resisting Spells: 100].Base' of 0x514 "Tripnasty" ('Tripneustes') to '100'
+2/27/2013 3:07:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 3:07:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 3:07:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x898 "a wraith" (no account)
+2/27/2013 3:08:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 3:08:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x7EF "a skeleton" (no account)
+2/27/2013 3:08:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 3:08:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 3:08:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 3:08:48 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0xA3A "a skeleton" (no account)
+2/27/2013 3:10:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/27/2013 3:11:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add PoisonStrikeScroll'
+2/27/2013 3:11:09 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1385, 1498, 10) in Felucca: "PoisonStrikeScroll"
+2/27/2013 3:11:09 PM: 174.89.178.2: Serials: 0x40004650; 
+2/27/2013 3:41:35 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/27/2013 3:42:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Ettin'
+2/27/2013 3:42:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1392, 1516, 9) in Felucca: "Ettin"
+2/27/2013 3:42:14 PM: 174.89.178.2: Serials: 0xAE7; 
+2/27/2013 3:43:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/27/2013 3:44:05 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add OrcBrute'
+2/27/2013 3:44:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1397, 1512, 10) in Felucca: "OrcBrute"
+2/27/2013 3:44:07 PM: 174.89.178.2: Serials: 0xAF0; 
+2/27/2013 3:44:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 3:44:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0xAF0 "an orc brute" (no account)
+2/27/2013 3:44:44 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/27/2013 3:44:46 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 3:45:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/27/2013 3:45:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40006BDB (Corpse)
+2/27/2013 3:45:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/27/2013 3:46:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Cyclops'
+2/27/2013 3:46:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1398, 1513, 10) in Felucca: "Cyclops"
+2/27/2013 3:46:02 PM: 174.89.178.2: Serials: 0xAF8; 
+2/27/2013 3:52:25 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/27/2013 3:53:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add IceFiend'
+2/27/2013 3:53:21 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1400, 1513, 10) in Felucca: "IceFiend"
+2/27/2013 3:53:21 PM: 174.89.178.2: Serials: 0xB29; 
+2/27/2013 3:54:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 3:54:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0xB29 "an ice fiend" (no account)
+2/27/2013 3:54:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/27/2013 3:54:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 3:55:40 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/27/2013 3:55:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x400118C9 (Corpse)
+2/27/2013 3:55:51 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/27/2013 3:56:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add Gibberling'
+2/27/2013 3:56:31 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1404, 1505, 10) in Felucca: "Gibberling"
+2/27/2013 3:56:31 PM: 174.89.178.2: Serials: 0xB3F; 
+2/27/2013 3:59:14 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add CrystalElemental'
+2/27/2013 3:59:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (1402, 1509, 10) in Felucca: "CrystalElemental"
+2/27/2013 3:59:16 PM: 174.89.178.2: Serials: 0xB4B; 
+2/27/2013 4:00:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 4:00:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0xB4B "a crystal elemental" (no account)
+2/27/2013 4:00:22 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/27/2013 4:00:24 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 4:15:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add reagentbag'
+2/27/2013 4:15:46 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1380, 1500, 10) in Felucca: "BagOfAllReagents"
+2/27/2013 4:15:46 PM: 127.0.0.1: Serials: 0x40017128; 
+2/27/2013 4:16:32 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'gmbody '
+2/27/2013 4:16:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') is assuming a GM body
+2/27/2013 4:16:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'AutoSpeedBooster true'
+2/27/2013 4:19:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/27/2013 4:19:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'skills '
+2/27/2013 4:20:00 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property '[Resisting Spells: 100].Base' of 0x514 "Tripnasty" ('Tripneustes') to '100'
+2/27/2013 4:20:11 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property '[Resisting Spells: 50].Base' of 0x514 "Tripnasty" ('Tripneustes') to '50'
+2/27/2013 4:20:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/27/2013 4:20:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+2/27/2013 4:21:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40013CBD (Gold)
+2/27/2013 4:23:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'skills '
+2/27/2013 4:23:53 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') set property '[Resisting Spells: 70].Base' of 0x514 "Tripnasty" ('Tripneustes') to '70'
+2/27/2013 4:26:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 4:27:15 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') shutting down server (Restart: True) (Save: True)
+2/27/2013 4:27:15 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'save '
+##############################
+Log started on 2/27/2013 4:28:02 PM
+
+2/27/2013 4:28:14 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'speedboost '
+2/27/2013 4:28:23 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'recover '
+2/27/2013 4:28:27 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'recover '
+2/27/2013 4:30:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') unhiding 0x555 "Matt" ('Matt')
+2/27/2013 4:30:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Self Unhide'
+2/27/2013 4:30:42 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Tele'
+2/27/2013 4:30:49 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 4:31:25 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add gazer'
+2/27/2013 4:31:26 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1387, 1463, 10) in Felucca: "gazer"
+2/27/2013 4:31:26 PM: 127.0.0.1: Serials: 0x518; 
+2/27/2013 4:46:53 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'gmbody '
+2/27/2013 4:46:57 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'staffrunebook '
+2/27/2013 4:49:40 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') hiding 0x555 "Matt" ('Matt')
+2/27/2013 4:49:40 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Self Hide'
+2/27/2013 4:49:43 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 4:51:35 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add lych'
+2/27/2013 4:51:57 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (6083, 1356, 30) in Felucca: "Lich"
+2/27/2013 4:51:57 PM: 127.0.0.1: Serials: 0x5D4; 
+2/27/2013 4:52:21 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'kill '
+2/27/2013 4:52:22 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') killing 0x5D4 "a lich" (no account)
+2/27/2013 4:52:24 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+##############################
+Log started on 2/27/2013 5:21:03 PM
+
+2/27/2013 5:22:00 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'speedboost '
+2/27/2013 5:23:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'staffrunebook '
+2/27/2013 5:27:47 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'staffrunebook '
+2/27/2013 5:38:39 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 5:38:43 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/27/2013 5:39:20 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x22AD "Ronin" ('stafflag')
+2/27/2013 5:41:02 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') shutting down server (Restart: True) (Save: False)
+##############################
+Log started on 2/27/2013 5:41:48 PM
+
+2/27/2013 5:56:48 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'speedboost '
+2/27/2013 5:56:50 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 5:57:10 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add '
+2/27/2013 5:57:28 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add CastleDeed'
+2/27/2013 5:57:29 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1260, 1268, 0) in Felucca: "CastleDeed"
+2/27/2013 5:57:29 PM: 127.0.0.1: Serials: 0x40000E9E; 
+2/27/2013 5:57:51 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add LargePatioDeed'
+2/27/2013 5:57:52 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1257, 1279, 0) in Felucca: "LargePatioDeed"
+2/27/2013 5:57:52 PM: 127.0.0.1: Serials: 0x40000ED1; 
+2/27/2013 5:58:43 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add KeepDeed'
+2/27/2013 5:58:45 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1259, 1271, 0) in Felucca: "KeepDeed"
+2/27/2013 5:58:45 PM: 127.0.0.1: Serials: 0x40000FB1; 
+2/27/2013 5:59:13 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add LogCabinDeed'
+2/27/2013 5:59:14 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1257, 1273, 0) in Felucca: "LogCabinDeed"
+2/27/2013 5:59:14 PM: 127.0.0.1: Serials: 0x40001091; 
+2/27/2013 6:00:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Tele'
+2/27/2013 6:01:52 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add SmallTowerDeed'
+2/27/2013 6:01:53 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1258, 1282, 0) in Felucca: "SmallTowerDeed"
+2/27/2013 6:01:53 PM: 127.0.0.1: Serials: 0x400012E8; 
+2/27/2013 6:02:05 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add ThatchedRoofCottageDeed'
+2/27/2013 6:02:06 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1258, 1281, 0) in Felucca: "ThatchedRoofCottageDeed"
+2/27/2013 6:02:06 PM: 127.0.0.1: Serials: 0x400012F0; 
+2/27/2013 6:02:29 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add TowerDeed'
+2/27/2013 6:02:30 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1258, 1280, 0) in Felucca: "TowerDeed"
+2/27/2013 6:02:30 PM: 127.0.0.1: Serials: 0x40001315; 
+2/27/2013 6:04:05 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add VillaDeed'
+2/27/2013 6:04:07 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1256, 1280, 0) in Felucca: "VillaDeed"
+2/27/2013 6:04:07 PM: 127.0.0.1: Serials: 0x4000138F; 
+2/27/2013 6:04:31 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add TowerDeed'
+2/27/2013 6:04:32 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1257, 1278, 0) in Felucca: "TowerDeed"
+2/27/2013 6:04:32 PM: 127.0.0.1: Serials: 0x4000139D; 
+2/27/2013 6:05:21 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add TowerDeed'
+2/27/2013 6:05:22 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1257, 1281, 0) in Felucca: "TowerDeed"
+2/27/2013 6:05:22 PM: 127.0.0.1: Serials: 0x400013AE; 
+2/27/2013 6:05:35 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Tele'
+2/27/2013 6:05:41 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'speedboost '
+2/27/2013 6:08:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') unhiding 0x555 "Matt" ('Matt')
+2/27/2013 6:08:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Self Unhide'
+2/27/2013 6:10:08 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 6:11:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add crate'
+2/27/2013 6:12:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1259, 1274, 6) in Felucca: "BoneChest"
+2/27/2013 6:12:19 PM: 127.0.0.1: Serials: 0x40001698; 
+2/27/2013 6:12:27 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 6:12:28 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 6:12:29 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x40001698 (BoneChest)
+2/27/2013 6:12:39 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1259, 1275, 6) in Felucca: "DaemonBloodChest"
+2/27/2013 6:12:39 PM: 127.0.0.1: Serials: 0x40001699; 
+2/27/2013 6:13:09 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1259, 1274, 6) in Felucca: "FinishedWoodenChest"
+2/27/2013 6:13:09 PM: 127.0.0.1: Serials: 0x4000169A; 
+2/27/2013 6:13:30 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1262, 1275, 6) in Felucca: "GildedWoodenChest"
+2/27/2013 6:13:30 PM: 127.0.0.1: Serials: 0x4000169B; 
+2/27/2013 6:13:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 6:13:34 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x4000169B (GildedWoodenChest)
+2/27/2013 6:13:35 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x4000169A (FinishedWoodenChest)
+2/27/2013 6:13:53 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1260, 1275, 6) in Felucca: "MetalChest"
+2/27/2013 6:13:53 PM: 127.0.0.1: Serials: 0x400016A7; 
+2/27/2013 6:13:55 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1261, 1275, 6) in Felucca: "MetalChest"
+2/27/2013 6:13:55 PM: 127.0.0.1: Serials: 0x400016A8; 
+2/27/2013 6:14:12 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1257, 1268, 6) in Felucca: "MetalChest"
+2/27/2013 6:14:12 PM: 127.0.0.1: Serials: 0x400016AA; 
+2/27/2013 6:14:13 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1258, 1268, 6) in Felucca: "MetalChest"
+2/27/2013 6:14:13 PM: 127.0.0.1: Serials: 0x400016AB; 
+2/27/2013 6:14:14 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1259, 1268, 6) in Felucca: "MetalChest"
+2/27/2013 6:14:14 PM: 127.0.0.1: Serials: 0x400016AC; 
+2/27/2013 6:14:15 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1260, 1268, 6) in Felucca: "MetalChest"
+2/27/2013 6:14:15 PM: 127.0.0.1: Serials: 0x400016AD; 
+2/27/2013 6:14:16 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1261, 1268, 6) in Felucca: "MetalChest"
+2/27/2013 6:14:16 PM: 127.0.0.1: Serials: 0x400016AE; 
+2/27/2013 6:14:17 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1262, 1268, 6) in Felucca: "MetalChest"
+2/27/2013 6:14:17 PM: 127.0.0.1: Serials: 0x400016AF; 
+2/27/2013 6:14:18 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1263, 1268, 6) in Felucca: "MetalChest"
+2/27/2013 6:14:18 PM: 127.0.0.1: Serials: 0x400016B0; 
+2/27/2013 6:14:18 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1264, 1268, 6) in Felucca: "MetalChest"
+2/27/2013 6:14:18 PM: 127.0.0.1: Serials: 0x400017D8; 
+2/27/2013 6:14:23 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 6:14:25 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x40001699 (DaemonBloodChest)
+2/27/2013 6:20:02 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'AcceleratedSkill' of 0x5BF "Lykoi" ('lykoi') to 'Fishing'
+2/27/2013 6:22:07 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'HueMod' of 0x5BF "Lykoi" ('lykoi') to '903'
+2/27/2013 6:23:25 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Hue' of 0x5BF "Lykoi" ('lykoi') to '741'
+2/27/2013 6:24:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting account lykoi
+2/27/2013 6:25:06 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 6:25:07 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x40002DFD (RecruitBag)
+2/27/2013 6:25:08 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x400012F0 (ThatchedRoofCottageDeed)
+2/27/2013 6:25:09 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x4000138F (VillaDeed)
+2/27/2013 6:25:09 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x400012E8 (SmallTowerDeed)
+2/27/2013 6:28:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 6:28:43 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting account lykoi
+2/27/2013 6:30:26 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'staffrunebook '
+2/27/2013 6:30:55 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'addongen '
+2/27/2013 6:30:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 6:31:10 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add '
+2/27/2013 6:31:24 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Add LargeBoatDeed'
+2/27/2013 6:31:26 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1495, 3689, -2) in Felucca: "LargeBoatDeed"
+2/27/2013 6:31:26 PM: 127.0.0.1: Serials: 0x40002100; 
+2/27/2013 6:36:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') hiding 0x555 "Matt" ('Matt')
+2/27/2013 6:36:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'Self Hide'
+2/27/2013 6:36:28 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/27/2013 6:39:47 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'kill '
+2/27/2013 6:39:49 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') killing 0x78E3 "a sea serpent" (no account)
+2/27/2013 6:39:56 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 6:40:45 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'ControlMaster' of 0x78EB "a sea horse" (no account) to '0x819 "Lykoi"'
+2/27/2013 6:40:54 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 6:40:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x78EB "a sea horse" (no account) to (1555, 28, -2)
+2/27/2013 6:41:25 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Controlled' of 0x78EB "a sea horse" (no account) to 'True'
+2/27/2013 6:42:40 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'IsBonded' of 0x78EB "a sea horse" (no account) to 'True'
+2/27/2013 6:43:57 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add dager'
+2/27/2013 6:44:16 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "LuckyDagger"
+2/27/2013 6:44:16 PM: 127.0.0.1: Serials: 0x400023EC; 
+2/27/2013 6:44:17 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "LuckyDagger"
+2/27/2013 6:44:17 PM: 127.0.0.1: Serials: 0x400023ED; 
+2/27/2013 6:44:26 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "Dagger"
+2/27/2013 6:44:26 PM: 127.0.0.1: Serials: 0x400023FB; 
+2/27/2013 6:46:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "BagOfAllReagents"
+2/27/2013 6:46:11 PM: 127.0.0.1: Serials: 0x4000248F; 
+2/27/2013 6:46:14 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1552, 28, -2) in Felucca: "BagOfAllReagents"
+2/27/2013 6:46:14 PM: 127.0.0.1: Serials: 0x4000249D; 
+2/27/2013 6:46:15 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "BagOfAllReagents"
+2/27/2013 6:46:15 PM: 127.0.0.1: Serials: 0x400024B4; 
+2/27/2013 6:46:16 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "BagOfAllReagents"
+2/27/2013 6:46:16 PM: 127.0.0.1: Serials: 0x400024C5; 
+2/27/2013 6:46:16 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "BagOfAllReagents"
+2/27/2013 6:46:16 PM: 127.0.0.1: Serials: 0x400024D3; 
+2/27/2013 6:47:53 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1541, 33, -5) in Felucca: "BagOfAllReagents"
+2/27/2013 6:47:53 PM: 127.0.0.1: Serials: 0x400025D4; 
+2/27/2013 6:47:57 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1552, 29, -2) in Felucca: "BagOfAllReagents"
+2/27/2013 6:47:57 PM: 127.0.0.1: Serials: 0x400025E2; 
+2/27/2013 6:47:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 29, -2) in Felucca: "BagOfAllReagents"
+2/27/2013 6:47:58 PM: 127.0.0.1: Serials: 0x400025F0; 
+2/27/2013 6:47:59 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1554, 29, -2) in Felucca: "BagOfAllReagents"
+2/27/2013 6:47:59 PM: 127.0.0.1: Serials: 0x400025FE; 
+2/27/2013 6:48:16 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "BagOfSending"
+2/27/2013 6:48:16 PM: 127.0.0.1: Serials: 0x4000264B; 
+2/27/2013 6:48:39 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1555, 28, -2) in Felucca: "MageBag"
+2/27/2013 6:48:39 PM: 127.0.0.1: Serials: 0x40002673; 
+2/27/2013 6:48:53 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 6:48:55 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x400025D4 (BagOfAllReagents)
+2/27/2013 6:48:57 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x40002673 (MageBag)
+2/27/2013 6:49:09 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1555, 28, -2) in Felucca: "TailorBag"
+2/27/2013 6:49:09 PM: 127.0.0.1: Serials: 0x40002688; 
+2/27/2013 6:49:35 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1555, 27, -2) in Felucca: "RecruitBag"
+2/27/2013 6:49:35 PM: 127.0.0.1: Serials: 0x400026CA; 
+2/27/2013 6:49:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1553, 28, -2) in Felucca: "SalvageBag"
+2/27/2013 6:49:58 PM: 127.0.0.1: Serials: 0x40002733; 
+2/27/2013 6:50:18 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 6:50:20 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x400026CA (RecruitBag)
+2/27/2013 6:50:25 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 6:50:34 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 6:51:12 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Amount' of 0x40002112 (Hold) to '2'
+2/27/2013 6:52:08 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 6:52:15 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Amount' of 0x40002112 (Hold) to '1'
+2/27/2013 6:52:37 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add chest'
+2/27/2013 6:52:44 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1551, 28, 5) in Felucca: "DragonChest"
+2/27/2013 6:52:44 PM: 127.0.0.1: Serials: 0x40002840; 
+2/27/2013 6:53:13 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 6:53:14 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x4000268B (Hides)
+2/27/2013 7:07:56 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'StabledBy' of 0x78EB "a sea horse" (no account) to '0x819 "Lykoi"'
+2/27/2013 7:08:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'IsStabled' of 0x78EB "a sea horse" (no account) to 'True'
+2/27/2013 7:09:44 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 7:09:50 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x78EB "a sea horse" (no account) to (1553, 25, -5)
+2/27/2013 7:10:22 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'kill '
+2/27/2013 7:10:24 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') killing 0x78EB "a sea horse" (no account)
+2/27/2013 7:10:55 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'recover '
+2/27/2013 7:10:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'recover '
+2/27/2013 7:11:17 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 7:11:56 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 7:11:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x78EB "a sea horse" (no account)
+2/27/2013 7:11:59 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x40002BB4 (Corpse)
+2/27/2013 7:15:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property '[Hiding: 100].Base' of 0x819 "Lykoi" ('lykoi') to '100'
+2/27/2013 7:16:14 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 7:16:30 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Hue' of 0x400025F0 (BagOfAllReagents) to '578'
+2/27/2013 7:51:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+2/27/2013 7:51:32 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+2/27/2013 7:51:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') going to 0x514 "Tripnasty" ('Tripneustes'), Location (5396, 2009, 0), Map Felucca
+2/27/2013 7:51:45 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+2/27/2013 7:51:57 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 7:51:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x413C "a gazer" (no account)
+2/27/2013 7:52:01 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 7:52:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x413B "a gazer" (no account)
+2/27/2013 7:52:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/27/2013 7:52:13 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 7:53:27 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 7:53:28 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x4000249D (BagOfAllReagents)
+2/27/2013 7:53:30 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x40002CCF (Shoes)
+2/27/2013 7:56:25 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 7:56:38 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Hue' of 0x4000248F (BagOfAllReagents) to '6'
+2/27/2013 7:57:01 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 7:59:39 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+2/27/2013 7:59:50 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') going to 0x514 "Tripnasty" ('Tripneustes'), Location (5579, 1909, 0), Map Felucca
+2/27/2013 7:59:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 7:59:59 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x415D "a skeletal knight" (no account)
+2/27/2013 8:00:02 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:00:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x4161 "a wraith" (no account)
+2/27/2013 8:00:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+2/27/2013 8:00:47 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add DarknightCreeper'
+2/27/2013 8:00:49 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') building at (5581, 1903, 0) in Felucca: "DarknightCreeper"
+2/27/2013 8:00:49 PM: 174.89.178.2: Serials: 0xA83; 
+2/27/2013 8:00:55 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:00:56 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0xA83 "Crenabil" (no account)
+2/27/2013 8:01:06 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/27/2013 8:01:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/27/2013 8:01:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 8:02:12 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add hiryu'
+2/27/2013 8:02:14 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1545, 28, -2) in Felucca: "hiryu"
+2/27/2013 8:02:14 PM: 127.0.0.1: Serials: 0xA8E; 
+2/27/2013 8:03:06 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 8:03:33 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 8:03:35 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0xA8E "a hiryu" (no account)
+2/27/2013 8:03:42 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'add lesser'
+2/27/2013 8:03:56 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') building at (1544, 28, -2) in Felucca: "LesserHiryu"
+2/27/2013 8:03:56 PM: 127.0.0.1: Serials: 0xA98; 
+2/27/2013 8:04:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 8:06:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Controlled' of 0xA98 "a lesser hiryu" (no account) to 'True'
+2/27/2013 8:06:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'ControlMaster' of 0xA98 "a lesser hiryu" (no account) to '0x819 "Lykoi"'
+2/27/2013 8:06:32 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x819 "Lykoi" ('lykoi')
+2/27/2013 8:08:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:08:12 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x6DC "a lich" (no account)
+2/27/2013 8:08:15 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:08:18 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x4187 "a shade" (no account)
+2/27/2013 8:08:23 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'IsBonded' of 0xA98 "a lesser hiryu" (no account) to 'True'
+2/27/2013 8:08:40 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Loyalty' of 0xA98 "a lesser hiryu" (no account) to '100'
+2/27/2013 8:09:03 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:09:04 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x62E "a lich" (no account)
+2/27/2013 8:09:07 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:09:10 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x6A8 "a spectre" (no account)
+2/27/2013 8:09:16 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/27/2013 8:09:20 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 8:09:20 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property '[Bushido: 100].Base' of 0x819 "Lykoi" ('lykoi') to '100'
+2/27/2013 8:12:37 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 8:13:21 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Movable' of 0x400016A8 (MetalChest) to 'False'
+2/27/2013 8:14:45 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 8:14:49 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x400016A8 (MetalChest) to (1546, 28, -2)
+2/27/2013 8:15:00 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 8:15:03 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x400016A8 (MetalChest) to (1546, 28, -2)
+2/27/2013 8:15:05 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 8:15:07 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x400016A8 (MetalChest) to (1546, 28, -2)
+2/27/2013 8:15:08 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 8:15:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x400016A8 (MetalChest) to (1547, 28, 5)
+2/27/2013 8:15:15 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 8:15:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x400016A8 (MetalChest) to (1547, 28, 5)
+2/27/2013 8:15:21 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 8:15:23 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x400016A8 (MetalChest) to (1547, 28, 5)
+2/27/2013 8:15:25 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'move '
+2/27/2013 8:15:27 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') moving 0x400016A8 (MetalChest) to (1546, 28, -2)
+2/27/2013 8:16:00 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'MaxItems' of 0x400016A8 (MetalChest) to '500'
+2/27/2013 8:16:07 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'MaxItems' of 0x400016A8 (MetalChest) to '400'
+2/27/2013 8:16:18 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'LiftOverride' of 0x400016A8 (MetalChest) to 'True'
+2/27/2013 8:17:02 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'LockLevel' of 0x400016A8 (MetalChest) to '100'
+2/27/2013 8:17:12 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'RequiredSkill' of 0x400016A8 (MetalChest) to '100'
+2/27/2013 8:17:21 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'TrapOnLockpick' of 0x400016A8 (MetalChest) to 'True'
+2/27/2013 8:17:37 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'IsShipwreckedItem' of 0x400016A8 (MetalChest) to 'True'
+2/27/2013 8:17:50 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'IsShipwreckedItem' of 0x400016A8 (MetalChest) to 'False'
+2/27/2013 8:18:00 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'KeyValue' of 0x400016A8 (MetalChest) to '0'
+2/27/2013 8:18:09 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'KeyValue' of 0x400016A8 (MetalChest) to '1'
+2/27/2013 8:18:21 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'KeyValue' of 0x400016A8 (MetalChest) to '0'
+2/27/2013 8:19:06 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 8:19:20 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'LootType' of 0x400040C8 (Boots) to 'Newbied'
+2/27/2013 8:20:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:20:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x417B "a lich" (no account)
+2/27/2013 8:20:34 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:20:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x65A "a skeleton" (no account)
+2/27/2013 8:20:41 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+2/27/2013 8:20:43 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+2/27/2013 8:32:28 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:32:29 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0xB44 "a drake" (no account)
+2/27/2013 8:32:33 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:32:37 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+2/27/2013 8:32:38 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x6C1 "a dragon" (no account)
+2/27/2013 8:36:58 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+2/27/2013 8:37:30 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+2/27/2013 8:37:36 PM: 174.89.178.2: Developer 0x1D8F "Odin" ('Tripneustes0') bringing 0x514 "Tripnasty" ('Tripneustes') to Location (1384, 1501, 10), Map Felucca
+2/27/2013 8:57:11 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'props '
+2/27/2013 8:57:59 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Hits' of 0xA98 "a lesser hiryu" (no account) to '411'
+2/27/2013 8:58:37 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'M Remove'
+2/27/2013 8:58:39 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') deleting 0x40006B51 (Corpse)
+2/28/2013 12:04:58 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x819 "Lykoi" ('lykoi')
+2/28/2013 12:05:09 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x819 "Lykoi" ('lykoi')
+2/28/2013 12:05:32 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') used command 'admin '
+2/28/2013 12:05:49 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x819 "Lykoi" ('lykoi')
+2/28/2013 12:07:19 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'Controlled' of 0xA98 "a lesser hiryu" (no account) to 'True'
+2/28/2013 12:07:27 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'ControlMaster' of 0xA98 "a lesser hiryu" (no account) to '0x819 "Lykoi"'
+2/28/2013 12:07:34 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') set property 'ControlMaster' of 0xA98 "a lesser hiryu" (no account) to '0x819 "Lykoi"'
+2/28/2013 12:08:07 PM: 127.0.0.1: Owner 0x555 "Matt" ('Matt') resurrecting 0x819 "Lykoi" ('lykoi')
+2/28/2013 6:48:45 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'speedboost '
+2/28/2013 6:48:50 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'staffrunebook '
+2/28/2013 6:50:36 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'M Tele'
+2/28/2013 6:50:53 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'move '
+2/28/2013 6:50:57 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'admin '
+2/28/2013 6:52:27 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'admin '
+2/28/2013 6:52:37 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'premiumspawner '
+2/28/2013 6:53:43 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'Add RegionControl'
+2/28/2013 6:53:43 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'spawner '
+2/28/2013 6:53:52 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') building at (3649, 2558, 0) in Trammel: "RegionControl"
+2/28/2013 6:53:52 PM: 173.50.88.74: Serials: 0x400339B0; 
+2/28/2013 6:55:55 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'AllowSpawn' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:56:25 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanLootNPCCorpse' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:56:42 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'AllowHarmNPC' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:56:51 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'AllowBenefitNPC' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:57:00 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanEnter' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:57:05 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanHeal' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:57:16 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanLootOwnCorpse' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:57:28 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanRessurect' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:57:31 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanUseStuckMenu' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:57:42 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanUsePotions' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:58:00 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'EmptyNPCCorpse' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:58:58 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'ShowEnterMessage' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 6:59:09 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'ShowExitMessage' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 7:00:10 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'regionbounds '
+2/28/2013 7:00:26 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'regionbounds '
+2/28/2013 7:00:56 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'regionbounds '
+2/28/2013 7:02:17 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'RegionName' of 0x400339B0 (RegionControl) to '(null)'
+2/28/2013 7:02:23 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'RegionName' of 0x400339B0 (RegionControl) to ''
+2/28/2013 7:02:37 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'RegionName' of 0x400339B0 (RegionControl) to 'Custom Region'
+2/28/2013 7:02:48 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'staffrunebook '
+2/28/2013 7:03:55 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'regionbounds '
+2/28/2013 7:04:51 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'Add PremiumSpawner'
+2/28/2013 7:04:57 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') building at (3653, 2539, 0) in Trammel: "PremiumSpawner"
+2/28/2013 7:04:57 PM: 173.50.88.74: Serials: 0x400346D4; 
+2/28/2013 7:06:31 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'add '
+2/28/2013 7:09:05 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanBeDamaged' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 7:09:58 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'AllowBenefitPlayer' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 7:10:20 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'AllowHarmPlayer' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 7:13:19 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'Light' of 0x400339B0 (RegionControl) to 'DarkEast'
+2/28/2013 7:13:34 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'Light' of 0x400339B0 (RegionControl) to 'EastBig'
+2/28/2013 7:13:42 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanBeDamaged' of 0x400339B0 (RegionControl) to 'False'
+2/28/2013 7:15:34 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'Count' of 0x400346D4 (PremiumSpawner) to '50'
+2/28/2013 7:15:48 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'HomeRange' of 0x400346D4 (PremiumSpawner) to '50'
+2/28/2013 7:15:57 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') used command 'add '
+2/28/2013 7:17:13 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CountA' of 0x400346D4 (PremiumSpawner) to '6'
+2/28/2013 7:17:30 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CountB' of 0x400346D4 (PremiumSpawner) to '6'
+2/28/2013 7:19:13 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'AllowHarmPlayer' of 0x400339B0 (RegionControl) to 'False'
+2/28/2013 7:19:19 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanBeDamaged' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 7:20:38 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanLootNPCCorpse' of 0x400339B0 (RegionControl) to 'False'
+2/28/2013 7:21:30 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanLootNPCCorpse' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 7:21:44 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'CanMountEthereal' of 0x400339B0 (RegionControl) to 'True'
+2/28/2013 7:21:56 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'EmptyNPCCorpse' of 0x400339B0 (RegionControl) to 'False'
+2/28/2013 7:28:43 PM: 173.50.88.74: Developer 0xB21 "Jim God" ('dirticus') set property 'ItemDecay' of 0x400339B0 (RegionControl) to 'True'
+3/1/2013 11:32:07 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'speedboost '
+3/1/2013 11:32:11 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+3/1/2013 11:32:19 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') going to 0x86C "Hephaestus" ('Tripneustes'), Location (2531, 501, 31), Map Felucca
+3/1/2013 11:32:22 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x86C "Hephaestus" ('Tripneustes') 
+3/1/2013 11:32:35 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') Opening Skills gump of 0x86C "Hephaestus" ('Tripneustes') 
+3/1/2013 11:33:18 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+3/1/2013 11:33:31 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+3/1/2013 11:33:32 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x3668 "a valorite elemental" (no account)
+3/1/2013 11:35:28 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+3/1/2013 11:35:36 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+3/1/2013 11:35:37 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x3683 "a bronze elemental" (no account)
+3/1/2013 11:35:43 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+3/1/2013 11:35:44 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x86C "Hephaestus" ('Tripneustes')
+3/1/2013 11:38:20 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+3/1/2013 11:38:21 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x3689 "a bronze elemental" (no account)
+3/1/2013 11:40:13 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+3/1/2013 11:40:20 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'remove '
+3/1/2013 11:40:21 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') deleting 0x40046D82 (Corpse)
+3/1/2013 11:40:51 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'add '
+3/1/2013 11:41:13 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Add LampPost3'
+3/1/2013 11:41:17 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') building at (2511, 560, 0) in Felucca: "LampPost3"
+3/1/2013 11:41:17 AM: 174.91.141.192: Serials: 0x40046E62; 
+3/1/2013 11:41:29 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'move '
+3/1/2013 11:41:34 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') moving 0x40046E62 (LampPost3) to (2508, 560, 0)
+3/1/2013 11:41:42 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'move '
+3/1/2013 11:41:51 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') moving 0x40046E62 (LampPost3) to (2515, 564, 0)
+3/1/2013 11:58:57 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') unhiding 0x1D8F "Odin" ('Tripneustes0')
+3/1/2013 11:58:57 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Self Unhide'
+3/1/2013 11:59:32 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+3/1/2013 11:59:41 AM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+3/1/2013 12:01:17 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+3/1/2013 12:05:58 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:06:40 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+3/1/2013 12:06:45 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') bringing 0x514 "Tripnasty" ('Tripneustes') to Location (5750, 2962, 30), Map Felucca
+3/1/2013 12:06:50 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') Opening Skills gump of 0x514 "Tripnasty" ('Tripneustes') 
+3/1/2013 12:07:03 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') set property '[Parrying: 80].Base' of 0x514 "Tripnasty" ('Tripneustes') to '80'
+3/1/2013 12:07:22 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') set property '[Healing: 65].Base' of 0x514 "Tripnasty" ('Tripneustes') to '65'
+3/1/2013 12:10:00 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'admin '
+3/1/2013 12:10:08 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+3/1/2013 12:10:10 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x5E1F "an efreet" (no account)
+3/1/2013 12:10:16 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+3/1/2013 12:10:18 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x5E2A "a lava serpent" (no account)
+3/1/2013 12:10:22 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+3/1/2013 12:10:24 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+3/1/2013 12:20:46 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+3/1/2013 12:20:48 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x4304 "a fire elemental" (no account)
+3/1/2013 12:20:50 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'kill '
+3/1/2013 12:20:52 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') killing 0x4302 "a lava serpent" (no account)
+3/1/2013 12:20:54 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'resurrect '
+3/1/2013 12:20:56 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') resurrecting 0x514 "Tripnasty" ('Tripneustes')
+3/1/2013 12:28:51 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+3/1/2013 12:32:23 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'props '
+3/1/2013 12:34:08 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') set property 'HitLightning' of ... to '50'
+3/1/2013 12:36:54 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:37:20 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:37:29 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:37:47 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:37:54 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:38:04 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:38:22 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:40:24 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Multi Tele'
+3/1/2013 12:46:02 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'staffrunebook '
+3/1/2013 12:47:51 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'Multi Tele'
+3/1/2013 12:48:45 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+3/1/2013 12:48:49 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') bringing 0x514 "Tripnasty" ('Tripneustes') to Location (5183, 3636, 0), Map Felucca
+3/1/2013 12:52:42 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') used command 'who '
+3/1/2013 12:52:48 PM: 174.91.141.192: Developer 0x1D8F "Odin" ('Tripneustes0') kicking 0x514 "Tripnasty" ('Tripneustes') 

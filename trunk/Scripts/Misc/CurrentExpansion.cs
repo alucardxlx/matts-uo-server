@@ -6,6 +6,7 @@ namespace Server
 	public class CurrentExpansion
 	{
 		private static readonly Expansion Expansion = Expansion.SA;
+        //private static readonly Expansion Expansion = Expansion.None;
 
 		public static void Configure()
 		{
