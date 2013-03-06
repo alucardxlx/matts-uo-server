@@ -45,7 +45,14 @@ namespace Server.Mobiles
 		Young					= 0x00000400,
 		AcceptGuildInvites		= 0x00000800,
 		DisplayChampionTitle	= 0x00001000,
-		HasStatReward			= 0x00002000
+		HasStatReward			= 0x00002000,
+
+		#region Mondain's Legacy
+		Bedlam = 0x00010000,
+		LibraryFriend = 0x00020000,
+		Spellweaving = 0x00040000,
+		#endregion
+
 	}
 
 	public enum NpcGuild
@@ -461,6 +468,29 @@ namespace Server.Mobiles
 			get{ return m_AnkhNextUse; }
 			set{ m_AnkhNextUse = value; }
 		}
+
+		#region Mondain's Legacy
+		[CommandProperty(AccessLevel.GameMaster)]
+		public bool Bedlam
+		{
+			get { return GetFlag(PlayerFlag.Bedlam); }
+			set { SetFlag(PlayerFlag.Bedlam, value); }
+		}
+
+		[CommandProperty(AccessLevel.GameMaster)]
+		public bool LibraryFriend
+		{
+			get { return GetFlag(PlayerFlag.LibraryFriend); }
+			set { SetFlag(PlayerFlag.LibraryFriend, value); }
+		}
+
+		[CommandProperty(AccessLevel.GameMaster)]
+		public bool Spellweaving
+		{
+			get { return GetFlag(PlayerFlag.Spellweaving); }
+			set { SetFlag(PlayerFlag.Spellweaving, value); }
+		}
+		#endregion
 
 		[CommandProperty( AccessLevel.GameMaster )]
 		public TimeSpan DisguiseTimeLeft
@@ -1075,6 +1105,10 @@ namespace Server.Mobiles
 				if ( pm.m_Quest != null )
 					pm.m_Quest.StartTimer();
 
+				#region Mondain's Legacy
+				QuestHelper.StartTimer(pm);
+				#endregion
+
 				pm.BedrollLogout = false;
 				pm.LastOnline = DateTime.Now;
 			}
@@ -1128,6 +1162,10 @@ namespace Server.Mobiles
 
 				if ( pm.m_Quest != null )
 					pm.m_Quest.StopTimer();
+
+				#region Mondain's Legacy
+				QuestHelper.StopTimer(pm);
+				#endregion
 
 				pm.m_SpeechLog = null;
 				pm.LastOnline = DateTime.Now;
@@ -1188,6 +1226,14 @@ namespace Server.Mobiles
 		{
 			if ( m_DesignContext != null || (target is PlayerMobile && ((PlayerMobile)target).m_DesignContext != null) )
 				return false;
+
+			#region Mondain's Legacy
+			if (Peaced)
+			{
+				// TODO message
+				return false;
+			}
+			#endregion
 
 			if ( (target is BaseVendor && ((BaseVendor)target).IsInvulnerable) || target is PlayerVendor || target is TownCrier )
 			{
@@ -1454,6 +1500,13 @@ namespace Server.Mobiles
 				{
 					if( m_AnimalFormRestrictedSkills[i] == skill )
 					{
+						#region Mondain's Legacy
+						AnimalFormContext context = AnimalForm.GetContext(this);
+
+						if (skill == SkillName.Stealing && context.StealingMod.Absolute)
+							continue;
+						#endregion
+
 						SendLocalizedMessage( 1070771 ); // You cannot use that skill in this form.
 						return false;
 					}
@@ -1548,7 +1601,17 @@ namespace Server.Mobiles
 
 				if( Alive )
 					list.Add( new CallbackEntry( 6210, new ContextCallback( ToggleChampionTitleDisplay ) ) );
-			}
+
+                #region Mondain's Legacy
+                if (Alive)
+                {
+                    QuestHelper.GetContextMenuEntries(list);
+
+                    if (m_CollectionTitles.Count > 0)
+                        list.Add(new CallbackEntry(6229, new ContextCallback(ShowChangeTitle)));
+                }
+                #endregion
+            }
 			if ( from != this )
 			{
 				if ( Alive && Core.Expansion >= Expansion.AOS )
@@ -1605,6 +1668,11 @@ namespace Server.Mobiles
 
 		private bool CanInsure( Item item )
 		{
+			#region Mondain's Legacy
+			if (item is BaseQuiver && item.LootType == LootType.Regular)
+				return true;
+			#endregion
+
 			if ( (( item is Container) && !(item is BaseQuiver)) || item is BagOfSending || item is KeyRing )
 				return false;
 
@@ -2115,6 +2183,11 @@ namespace Server.Mobiles
 
 			if ( willKill && from is PlayerMobile )
 				Timer.DelayCall( TimeSpan.FromSeconds( 10 ), new TimerCallback( ((PlayerMobile) from).RecoverAmmo ) );
+
+			#region Mondain's Legacy
+			if (InvisibilityPotion.HasTimer(this))
+				InvisibilityPotion.Iterrupt(this);
+			#endregion
 
 			base.OnDamage( amount, from, willKill );
 		}
@@ -3387,6 +3460,19 @@ namespace Server.Mobiles
 		{
 			base.GetProperties( list );
 
+			#region Mondain's Legacy
+			if (m_CollectionTitles != null && m_SelectedTitle > -1)
+			{
+				if (m_SelectedTitle < m_CollectionTitles.Count)
+				{
+					if (m_CollectionTitles[m_SelectedTitle] is int)
+						list.Add((int)m_CollectionTitles[m_SelectedTitle]);
+					else if (m_CollectionTitles[m_SelectedTitle] is string)
+						list.Add(1049644, (string)m_CollectionTitles[m_SelectedTitle]);
+				}
+			}
+			#endregion
+
 			if ( Map == Faction.Facet )
 			{
 				PlayerState pl = PlayerState.Find( this );
@@ -3490,6 +3576,11 @@ namespace Server.Mobiles
 					RevealingAction();
 				}
 			}
+
+			#region Mondain's Legacy
+			if (InvisibilityPotion.HasTimer(this))
+				InvisibilityPotion.Iterrupt(this);
+			#endregion
 
 			return true;
 		}
@@ -4438,6 +4529,14 @@ namespace Server.Mobiles
 
 			[CommandProperty( AccessLevel.GameMaster )]
 			public int Harrower { get { return m_Harrower; } set { m_Harrower = value; } }
+
+			#region Mondain's Legacy Peerless Champion
+			[CommandProperty(AccessLevel.GameMaster)]
+			public int Glade { get { return GetValue(ChampionSpawnType.Glade); } set { SetValue(ChampionSpawnType.Glade, value); } }
+
+            //[CommandProperty(AccessLevel.GameMaster)]
+            //public int Corrupt { get { return GetValue(ChampionSpawnType.Corrupt); } set { SetValue(ChampionSpawnType.Corrupt, value); } }
+			#endregion
 
 			public ChampionTitleInfo()
 			{
