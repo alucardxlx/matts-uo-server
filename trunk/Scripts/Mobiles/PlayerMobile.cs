@@ -2806,16 +2806,31 @@ namespace Server.Mobiles
 
 			switch ( version )
 			{
-                //case 29:
-                //    {
-                //        m_VASTotalMonsterFame = reader.ReadInt();
-                //        goto case 28;
-                //    }
+                case 29:
+                {
+                    m_VASTotalMonsterFame = reader.ReadInt();
+                    #region Mondain's Legacy
+                    m_Quests = QuestReader.Quests(reader, this);
+                    m_Chains = QuestReader.Chains(reader);
+
+                    m_Collections = new Dictionary<Collection, int>();
+                    m_CollectionTitles = new List<object>();
+
+                    for (int i = reader.ReadInt(); i > 0; i--)
+                        m_Collections.Add((Collection)reader.ReadInt(), reader.ReadInt());
+
+                    for (int i = reader.ReadInt(); i > 0; i--)
+                        m_CollectionTitles.Add(QuestReader.Object(reader));
+
+                    m_SelectedTitle = reader.ReadInt();
+                    m_Peaced = reader.ReadDateTime();
+                    #endregion
+                    goto case 28;
+                }
                 case 28:
 				{
 					m_PeacedUntil = reader.ReadDateTime();
-
-					goto case 27;
+                    goto case 27;
 				}
 				case 27:
 				{
@@ -2827,22 +2842,6 @@ namespace Server.Mobiles
 				{
 					m_AutoStabled = reader.ReadStrongMobileList();
 
-                    //#region Mondain's Legacy
-                    //m_Quests = QuestReader.Quests(reader, this);
-                    //m_Chains = QuestReader.Chains(reader);
-
-                    //m_Collections = new Dictionary<Collection, int>();
-                    //m_CollectionTitles = new List<object>();
-
-                    //for (int i = reader.ReadInt(); i > 0; i--)
-                    //    m_Collections.Add((Collection)reader.ReadInt(), reader.ReadInt());
-
-                    //for (int i = reader.ReadInt(); i > 0; i--)
-                    //    m_CollectionTitles.Add(QuestReader.Object(reader));
-
-                    //m_SelectedTitle = reader.ReadInt();
-                    //m_Peaced = reader.ReadDateTime();
-                    //#endregion
 
                     goto case 25;
                 }
@@ -3053,22 +3052,22 @@ namespace Server.Mobiles
 			if (m_RecentlyReported == null)
 				m_RecentlyReported = new List<Mobile>();
 
-            //#region Mondain's Legacy
-            //if (m_Quests == null)
-            //    m_Quests = new List<BaseQuest>();
+            #region Mondain's Legacy
+            if (m_Quests == null)
+                m_Quests = new List<BaseQuest>();
 
-            //if (m_Chains == null)
-            //    m_Chains = new Dictionary<QuestChain, BaseChain>();
+            if (m_Chains == null)
+                m_Chains = new Dictionary<QuestChain, BaseChain>();
 
-            //if (m_DoneQuests == null)
-            //    m_DoneQuests = new List<QuestRestartInfo>();
+            if (m_DoneQuests == null)
+                m_DoneQuests = new List<QuestRestartInfo>();
 
-            //if (m_Collections == null)
-            //    m_Collections = new Dictionary<Collection, int>();
+            if (m_Collections == null)
+                m_Collections = new Dictionary<Collection, int>();
 
-            //if (m_CollectionTitles == null)
-            //    m_CollectionTitles = new List<object>();
-            //#endregion
+            if (m_CollectionTitles == null)
+                m_CollectionTitles = new List<object>();
+            #endregion
             
             // Professions weren't verified on 1.0 RC0
 			if ( !CharacterCreation.VerifyProfession( m_Profession ) )
@@ -3136,49 +3135,51 @@ namespace Server.Mobiles
 
 			base.Serialize( writer );
 
-//			writer.Write( (int) 29 ); // version
-            writer.Write((int)28); // version
+			writer.Write( (int) 29 ); // version
+//            writer.Write((int)28); // version
 
-			writer.Write( (DateTime) m_PeacedUntil );
-			writer.Write( (DateTime) m_AnkhNextUse );
-			writer.Write( m_AutoStabled, true );
+            writer.Write(m_VASTotalMonsterFame);	//This ain't going to be a small #. 29
+            #region Mondain's Legacy version 26
+            QuestWriter.Quests(writer, m_Quests);
+            QuestWriter.Chains(writer, m_Chains);
 
-            //#region Mondain's Legacy version 26
-            //QuestWriter.Quests(writer, m_Quests);
-            //QuestWriter.Chains(writer, m_Chains);
+            if (m_Collections == null)
+            {
+                writer.Write((int)0);
+            }
+            else
+            {
+                writer.Write((int)m_Collections.Count);
 
-            //if (m_Collections == null)
-            //{
-            //    writer.Write((int)0);
-            //}
-            //else
-            //{
-            //    writer.Write((int)m_Collections.Count);
+                foreach (KeyValuePair<Collection, int> pair in m_Collections)
+                {
+                    writer.Write((int)pair.Key);
+                    writer.Write((int)pair.Value);
+                }
+            }
 
-            //    foreach (KeyValuePair<Collection, int> pair in m_Collections)
-            //    {
-            //        writer.Write((int)pair.Key);
-            //        writer.Write((int)pair.Value);
-            //    }
-            //}
+            if (m_CollectionTitles == null)
+            {
+                writer.Write((int)0);
+            }
+            else
+            {
+                writer.Write((int)m_CollectionTitles.Count);
 
-            //if (m_CollectionTitles == null)
-            //{
-            //    writer.Write((int)0);
-            //}
-            //else
-            //{
-            //    writer.Write((int)m_CollectionTitles.Count);
+                for (int i = 0; i < m_CollectionTitles.Count; i++)
+                    QuestWriter.Object(writer, m_CollectionTitles[i]);
+            }
 
-            //    for (int i = 0; i < m_CollectionTitles.Count; i++)
-            //        QuestWriter.Object(writer, m_CollectionTitles[i]);
-            //}
+            writer.Write((int)m_SelectedTitle);
+            writer.Write((DateTime)m_Peaced);
+            #endregion
 
-            //writer.Write((int)m_SelectedTitle);
-            //writer.Write((DateTime)m_Peaced);
-            //#endregion
+			writer.Write( (DateTime) m_PeacedUntil );  // 28  
+			writer.Write( (DateTime) m_AnkhNextUse );  // 27
+			writer.Write( m_AutoStabled, true );       // 26
+
             
-            if (m_AcquiredRecipes == null)
+            if (m_AcquiredRecipes == null) // 25
 			{
 				writer.Write( (int)0 );
 			}
@@ -3193,9 +3194,9 @@ namespace Server.Mobiles
 				}
 			}
 
-			writer.WriteDeltaTime( m_LastHonorLoss );
+			writer.WriteDeltaTime( m_LastHonorLoss );  // 24
 
-			ChampionTitleInfo.Serialize( writer, m_ChampionTitles );
+			ChampionTitleInfo.Serialize( writer, m_ChampionTitles );  //23
 
 			writer.Write( m_LastValorLoss );
 			writer.WriteEncodedInt( m_ToTItemsTurnedIn );
